@@ -224,7 +224,7 @@ const ayesh: FullStackEngineer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayesh2929&theme=radical&no-frame=false&no-bg=true&margin-w=6&row=2&column=4&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,Experience,MultiLanguage)](https://github.com/Ayesh2929)
+[![trophy](https://github-trophies.vercel.app/?username=Ayesh2929&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=-1)](https://github.com/Ayesh2929)
 
 </div>
 
