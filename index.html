@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#02030a">
+<meta name="description" content="ULTRA MAX LEVEL // DEEP CORE — a massive raw 3D/4D experience: 3D characters, 3D objects, 3D models, 4D charts, deep animations, and a hidden secret vault.">
+<title>ULTRA MAX LEVEL // DEEP CORE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/ultra.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%2300f0ff'/%3E%3Cstop offset='1' stop-color='%23ff2d95'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='4' y='4' width='24' height='24' rx='6' fill='url(%23g)'/%3E%3Ctext x='16' y='22' font-size='14' text-anchor='middle' fill='%2302030a' font-family='sans-serif' font-weight='bold'%3E∞%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<!-- ======================= LOADER ======================= -->
+<div id="loader">
+  <div class="load-core"><i></i><i></i><i></i></div>
+  <div id="load-pct">0%</div>
+  <div id="load-log"></div>
+</div>
+
+<!-- ======================= FX OVERLAYS ======================= -->
+<div class="fx" id="scanlines"></div>
+<div class="fx" id="vignette"></div>
+<div class="fx" id="noise"></div>
+<div id="progress"></div>
+<div id="cursor-ring"></div>
+<div id="cursor"></div>
+<div class="chart-tip" id="chart-tip"></div>
+<div id="toast"></div>
+
+<div id="unlock">
+  <div class="unlock-inner">
+    <h3>VAULT UNLOCKED</h3>
+    <p>Deep secret channel established…</p>
+    <a class="btn mag" href="secret.html" id="unlock-go">ENTER THE DEEP VAULT →</a>
+  </div>
+</div>
+
+<!-- ======================= HUD ======================= -->
+<header class="hud">
+  <div class="logo">AYESH <b>∞</b> ULTRA//CORE</div>
+  <nav class="hud-nav">
+    <a href="#hero" class="active">Origin</a>
+    <a href="#characters">3D Characters</a>
+    <a href="#objects">3D Objects</a>
+    <a href="#charts">4D Charts</a>
+    <a href="#models">3D Models</a>
+    <a href="#secret">Deep Secret</a>
+  </nav>
+  <div class="hud-tools">
+    <div class="hud-clock" id="hud-clock">00:00:00</div>
+    <button class="icon-btn" id="sound-btn" title="toggle synth audio">♫</button>
+    <button class="icon-btn" id="warp-btn" title="hyper warp">✦</button>
+  </div>
+</header>
+
+<!-- ======================= 3D WORLD ======================= -->
+<canvas id="world"></canvas>
+
+<main>
+
+  <!-- ============ HERO ============ -->
+  <section id="hero">
+    <div class="section-tag reveal">SYSTEM ONLINE — 4D ENGINE v9.∞</div>
+    <h1 class="hero-title reveal d1">
+      <span class="line1 glitch" data-text="ULTRA MAX LEVEL">ULTRA MAX LEVEL</span>
+      <span class="line2">DEEP CORE // RAW PAGE</span>
+    </h1>
+    <p class="lead reveal d2">
+      A massive, deep, max-level raw experience forged from pure code —
+      live <b>3D characters</b>, orbiting <b>3D objects</b>, engineered <b>3D models</b>,
+      animated <b>4D charts</b>, and a hidden vault that only the worthy can open.
+    </p>
+    <div class="hero-chips reveal d3">
+      <span class="chip">3D CHARACTERS <b id="st-chars">3 ACTIVE</b></span>
+      <span class="chip mag">3D OBJECTS <b id="st-objs">8 FORGED</b></span>
+      <span class="chip gold">4D CHARTS <b id="st-charts">16 LIVE</b></span>
+      <span class="chip">FPS <b id="st-fps">60</b></span>
+      <span class="chip mag">DIMENSIONS <b>4D+ MAPPED</b></span>
+      <span class="chip gold">MODELS <b>MECH · SERPENT · CITY</b></span>
+    </div>
+    <div class="cta-row reveal d4">
+      <a class="btn magnetic" href="#characters">ENTER THE LAB</a>
+      <a class="btn mag magnetic" href="#charts">4D CHART UNIVERSE</a>
+      <a class="btn ghost magnetic" href="#secret">FIND THE SECRET</a>
+    </div>
+  </section>
+
+  <!-- ============ 3D CHARACTERS ============ -->
+  <section id="characters">
+    <div class="section-tag reveal">ZONE 01 — 3D CHARACTER LAB</div>
+    <h2 class="reveal d1">MEET THE <span class="grad">3D CHARACTERS</span></h2>
+    <p class="lead reveal d2">Three fully procedural 3D characters built from raw geometry —
+      every limb, visor, armor plate and energy core is generated live and animated in real time.</p>
+    <div class="grid c3">
+      <article class="card char-card c1 reveal d1">
+        <div class="aura"></div>
+        <div class="char-tag">UNIT // NEO-7</div>
+        <h3>NEO-7 — Striker</h3>
+        <p>Cyan-class recon humanoid. Quantum visor, hover-bob drive, and a reactor chest core that pulses with the page itself.</p>
+        <div class="stat-row"><span>Power</span><b>92%</b></div><div class="bar"><i data-w="92"></i></div>
+        <div class="stat-row"><span>Speed</span><b>88%</b></div><div class="bar"><i data-w="88"></i></div>
+        <div class="stat-row"><span>Agility</span><b>95%</b></div><div class="bar"><i data-w="95"></i></div>
+      </article>
+      <article class="card char-card c2 reveal d2">
+        <div class="aura"></div>
+        <div class="char-tag">UNIT // LUMINA</div>
+        <h3>LUMINA — Oracle</h3>
+        <p>Magenta crystal entity with floating shard armor. Reads probability streams from the 4th dimension and glows while doing it.</p>
+        <div class="stat-row"><span>Power</span><b>84%</b></div><div class="bar mag"><i data-w="84"></i></div>
+        <div class="stat-row"><span>Speed</span><b>91%</b></div><div class="bar mag"><i data-w="91"></i></div>
+        <div class="stat-row"><span>Wisdom</span><b>99%</b></div><div class="bar mag"><i data-w="99"></i></div>
+      </article>
+      <article class="card char-card c3 reveal d3">
+        <div class="aura"></div>
+        <div class="char-tag">UNIT // TITAN-X</div>
+        <h3>TITAN-X — Juggernaut</h3>
+        <p>Heavy gold-class war frame. Extra-thick plating, horn crest, and a stance so stable it bends the fog around it.</p>
+        <div class="stat-row"><span>Power</span><b>100%</b></div><div class="bar gold"><i data-w="100"></i></div>
+        <div class="stat-row"><span>Armor</span><b>97%</b></div><div class="bar gold"><i data-w="97"></i></div>
+        <div class="stat-row"><span>Stamina</span><b>93%</b></div><div class="bar gold"><i data-w="93"></i></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ 3D OBJECTS ============ -->
+  <section id="objects">
+    <div class="section-tag reveal">ZONE 02 — 3D OBJECT VAULT</div>
+    <h2 class="reveal d1">FORGED <span class="grad">3D OBJECTS</span></h2>
+    <p class="lead reveal d2">Eight artifacts orbit the void below — crystals, blades, gears, potions, planets and more,
+      each one a live 3D object with its own rotation, glow and physics-free float.</p>
+    <div class="grid c4">
+      <article class="card reveal d1"><div class="idx">OBJ-01</div><h3>Void Crystal</h3><p>Faceted icosahedron core wrapped in orbiting shards. Emission scales with the beat of the reactor.</p></article>
+      <article class="card reveal d2"><div class="idx">OBJ-02</div><h3>Photon Blade</h3><p>An energy sword with pure emissive edge, gold guard and a mini point-light that paints the fog.</p></article>
+      <article class="card reveal d3"><div class="idx">OBJ-03</div><h3>Gear Trinity</h3><p>Triple interlocked gear rings spinning at different ratios — industrial 3D geometry at max torque.</p></article>
+      <article class="card reveal d4"><div class="idx">OBJ-04</div><h3>Quantum Potion</h3><p>Containment sphere holding a living droplet cloud and a halo ring. Shake well before teleporting.</p></article>
+      <article class="card reveal d1"><div class="idx">OBJ-05</div><h3>Ringed Planet</h3><p>Procedural planet with double rings and a lunar satellite on a true inclined orbit.</p></article>
+      <article class="card reveal d2"><div class="idx">OBJ-06</div><h3>Time Hourglass</h3><p>Two glowing sand cones trapped in glass geometry, rotating through its own private timeline.</p></article>
+      <article class="card reveal d3"><div class="idx">OBJ-07</div><h3>Fractal Cube</h3><p>Nested cubes within cubes, each layer rotating against the last — recursion you can see.</p></article>
+      <article class="card reveal d4"><div class="idx">OBJ-08</div><h3>Chaos Knot</h3><p>A torus knot with a wireframe ghost riding inside it. Topology as pure attitude.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ 4D CHARTS ============ -->
+  <section id="charts">
+    <div class="section-tag reveal">ZONE 03 — 4D CHART UNIVERSE</div>
+    <h2 class="reveal d1">ALL CHARTS. <span class="grad">FOUR DIMENSIONS.</span></h2>
+    <p class="lead reveal d2">Every chart type — line, area, bar, pie, donut, radar, scatter, bubble, heatmap, gauge,
+      candlestick, polar, funnel, waterfall, network and sparkwave — living in neon, driven by a <b>4th dimension: TIME</b>.</p>
+
+    <div class="chart-toolbar reveal d3">
+      <label for="time-warp">⏱ 4D TIME ENGINE</label>
+      <input type="range" id="time-warp" min="0" max="200" value="100">
+      <span class="chip gold">WARP <b id="warp-readout">1.00×</b></span>
+      <button class="chip-btn" id="chaos-btn">⚡ CHAOS RESEED</button>
+      <button class="chip-btn" id="freeze-btn">❄ FREEZE TIME</button>
+    </div>
+
+    <div class="chart-grid" id="chart-grid">
+      <div class="chart-card reveal"><h4>01 · Multi-Line <em>4D series</em></h4><canvas data-chart="line"></canvas></div>
+      <div class="chart-card reveal"><h4>02 · Area Waves <em>stacked</em></h4><canvas data-chart="area"></canvas></div>
+      <div class="chart-card reveal"><h4>03 · Neon Bars <em>live</em></h4><canvas data-chart="bar"></canvas></div>
+      <div class="chart-card reveal"><h4>04 · Stacked Bars <em>layers</em></h4><canvas data-chart="stack"></canvas></div>
+      <div class="chart-card reveal"><h4>05 · 3D Pie <em>depth</em></h4><canvas data-chart="pie"></canvas></div>
+      <div class="chart-card reveal"><h4>06 · Donut Core <em>ring</em></h4><canvas data-chart="donut"></canvas></div>
+      <div class="chart-card reveal"><h4>07 · Radar Scan <em>dual</em></h4><canvas data-chart="radar"></canvas></div>
+      <div class="chart-card reveal"><h4>08 · Scatter Field <em>fit</em></h4><canvas data-chart="scatter"></canvas></div>
+      <div class="chart-card reveal"><h4>09 · Bubble Cloud <em>mass</em></h4><canvas data-chart="bubble"></canvas></div>
+      <div class="chart-card reveal"><h4>10 · Heatmap Grid <em>density</em></h4><canvas data-chart="heatmap"></canvas></div>
+      <div class="chart-card reveal"><h4>11 · Power Gauge <em>engine</em></h4><canvas data-chart="gauge"></canvas></div>
+      <div class="chart-card reveal"><h4>12 · Candlestick <em>market</em></h4><canvas data-chart="candle"></canvas></div>
+      <div class="chart-card reveal"><h4>13 · Polar Bloom <em>radial</em></h4><canvas data-chart="polar"></canvas></div>
+      <div class="chart-card reveal"><h4>14 · Funnel Flow <em>filter</em></h4><canvas data-chart="funnel"></canvas></div>
+      <div class="chart-card reveal"><h4>15 · Waterfall <em>delta</em></h4><canvas data-chart="waterfall"></canvas></div>
+      <div class="chart-card reveal"><h4>16 · Neural Net <em>graph</em></h4><canvas data-chart="network"></canvas></div>
+    </div>
+  </section>
+
+  <!-- ============ 3D MODELS ============ -->
+  <section id="models">
+    <div class="section-tag reveal">ZONE 04 — 3D MODEL FOUNDRY</div>
+    <h2 class="reveal d1">ENGINEERED <span class="grad">3D MODELS</span></h2>
+    <p class="lead reveal d2">Not loaded — <b>built</b>. Each model is assembled from raw primitives at runtime,
+      lit by real point lights, and animated by live math.</p>
+    <div class="grid c2">
+      <article class="card reveal d1"><div class="idx">MDL-01</div><h3>WAR-MECH // Colossus</h3><p>A full heavy mech — cockpit, cannon racks, piston legs, thruster backpack — rotating on a glowing turntable. 60+ meshes, one attitude.</p>
+        <div class="stat-row"><span>Complexity</span><b>MAX</b></div><div class="bar"><i data-w="100"></i></div>
+        <div class="stat-row"><span>Firepower</span><b>OVER 9000</b></div><div class="bar mag"><i data-w="96"></i></div>
+      </article>
+      <article class="card reveal d2"><div class="idx">MDL-02</div><h3>VOID SERPENT</h3><p>A 24-segment dragon worm that swims through the void along a Lissajous path, head tracking the light source.</p>
+        <div class="stat-row"><span>Segments</span><b>24</b></div><div class="bar gold"><i data-w="88"></i></div>
+        <div class="stat-row"><span>Danger</span><b>ABSOLUTE</b></div><div class="bar gold"><i data-w="100"></i></div>
+      </article>
+      <article class="card reveal d3"><div class="idx">MDL-03</div><h3>NEON CITY BLOCK</h3><p>An instanced skyline of glowing towers with procedural window textures, rotating as one slow hologram.</p>
+        <div class="stat-row"><span>Buildings</span><b>INSTANCED</b></div><div class="bar"><i data-w="80"></i></div>
+        <div class="stat-row"><span>Glow</span><b>ULTRA</b></div><div class="bar mag"><i data-w="94"></i></div>
+      </article>
+      <article class="card reveal d4"><div class="idx">MDL-04</div><h3>CHRONO TORUS KNOT</h3><p>A double torus knot — solid neon inside, wireframe ghost outside — spinning in opposite phase through the fog.</p>
+        <div class="stat-row"><span>Topology</span><b>P(3),Q(8)</b></div><div class="bar gold"><i data-w="90"></i></div>
+        <div class="stat-row"><span>Hypnosis</span><b>YES</b></div><div class="bar gold"><i data-w="99"></i></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ DEEP SECRET ============ -->
+  <section id="secret">
+    <div class="section-tag reveal" style="justify-content:center">RESTRICTED — LEVEL ∞ CLEARANCE</div>
+    <h2 class="reveal d1"><span class="grad">DEEP SECRET</span> VAULT</h2>
+    <p class="lead reveal d2" style="margin:0 auto">Something is hidden beneath this page.
+      A code exists. A sequence exists. A small glowing gem also exists — somewhere near the end.
+      Prove your clearance and the vault opens.</p>
+
+    <div class="vault reveal d2">
+      <div class="hex"></div>
+      <div class="door"><div class="lock">LOCKED</div></div>
+    </div>
+
+    <div class="code-row reveal d3">
+      <input class="code-input" id="code-input" maxlength="12" placeholder="ENTER CODE" autocomplete="off" spellcheck="false">
+      <button class="btn mag magnetic" id="code-btn">UNLOCK</button>
+    </div>
+    <p class="hint reveal d3">HINT — TRY: <b>ULTRA</b> · <b>SECRET</b> · <b>MAX</b> · OR THE OLD KONAMI SEQUENCE ↑↑↓↓←→←→BA</p>
+  </section>
+
+  <!-- ============ MARQUEE ============ -->
+  <div class="marquee">
+    <div class="marquee-track" id="marquee">
+      <span>3D CHARACTERS <em>◆</em> 3D OBJECTS <em>◆</em> 4D CHARTS <em>◆</em> 3D MODELS <em>◆</em> RAW CODE <em>◆</em> MAX LEVEL <em>◆</em> DEEP DESIGN <em>◆</em></span>
+      <span>3D CHARACTERS <em>◆</em> 3D OBJECTS <em>◆</em> 4D CHARTS <em>◆</em> 3D MODELS <em>◆</em> RAW CODE <em>◆</em> MAX LEVEL <em>◆</em> DEEP DESIGN <em>◆</em></span>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="foot-logo">AYESH ∞ ULTRA//CORE<span class="gem" id="secret-gem" title="..."></span></div>
+  <p class="muted" style="margin-top:12px;font-family:var(--font-m);letter-spacing:.22em;font-size:.72rem;text-transform:uppercase">
+    BUILT FROM RAW HTML · CSS · JS · WEBGL — NO FRAMEWORKS, ONLY WILLPOWER
+  </p>
+  <div class="foot-links">
+    <a href="#hero">Back to top</a>
+    <a href="#charts">Charts</a>
+    <a href="#secret">Secret</a>
+    <a href="secret.html" id="foot-secret" style="opacity:.35">???</a>
+  </div>
+  <p class="muted" style="margin-top:18px;font-family:var(--font-m);font-size:.68rem;letter-spacing:.3em">
+    © 2026 — DEEP CORE ENGINE · ALL DIMENSIONS RESERVED
+  </p>
+</footer>
+
+<script src="vendor/three.global.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/ultra.js"></script>
+</body>
+</html>
