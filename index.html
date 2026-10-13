@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#070811" />
+  <meta name="description" content="Ayesh Perera's interactive project archive — web, mobile, Linux tooling, and a live 4D projection lab." />
+  <meta property="og:title" content="Ayesh Perera — Interactive Systems Archive" />
+  <meta property="og:description" content="Explore selected software projects and rotate a procedural tesseract projection." />
+  <meta property="og:image" content="/assets/profile-hero.jpg" />
+  <link rel="icon" href="/assets/mark.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/assets/site.css" />
+  <title>Ayesh Perera · Interactive Systems Archive</title>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/" aria-label="Ayesh Perera — home">
+        <span class="brand-mark" aria-hidden="true">AY/29</span>
+        <span class="brand-name">AYESH PERERA<small>PERSONAL SYSTEMS ARCHIVE</small></span>
+      </a>
+      <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Open navigation">
+        <span></span>
+      </button>
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="/" data-nav="home">01 / HOME</a>
+        <a class="nav-link" href="/projects/" data-nav="projects">02 / PROJECTS</a>
+        <a class="nav-link" href="/lab/" data-nav="lab">03 / 4D LAB</a>
+        <a class="nav-link" href="/about/" data-nav="about">04 / ABOUT</a>
+        <a class="nav-link" href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">GITHUB ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-art" src="/assets/profile-hero.jpg" alt="A 3D-rendered engineer at a luminous workstation among a projected hypercube, planet, and data forms" />
+      <div class="hero-shade" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="live-dot" aria-hidden="true"></span> PERSONAL PROJECT ARCHIVE · AY-29</p>
+          <h1 id="hero-title">Build in<br /><span class="gradient-text">another dimension.</span></h1>
+          <p class="hero-lede">I’m Ayesh Perera. I build and explore across web products, mobile interfaces, and Linux desktop tooling. This is the map of that work—with a small mathematical detour into 4D.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="/projects/">Explore the projects <span class="button-icon" aria-hidden="true">↗</span></a>
+            <a class="button" href="/lab/">Enter the 4D lab <span class="button-icon" aria-hidden="true">⟶</span></a>
+            <a class="button button-quiet" href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">GitHub profile ↗</a>
+          </div>
+          <div class="hero-metrics" aria-label="Areas represented in the archive">
+            <div class="hero-metric"><strong>WEB SYSTEMS</strong><span>Interfaces · APIs · data</span></div>
+            <div class="hero-metric"><strong>MOBILE FLOWS</strong><span>Expo · React Native</span></div>
+            <div class="hero-metric"><strong>LINUX TOOLING</strong><span>Hyprland · automation</span></div>
+          </div>
+        </div>
+
+        <figure class="hero-viewport" data-controls="home">
+          <div class="viewport-head"><strong>LIVE PROJECTION / 4D → 3D</strong><span>● RENDERING</span></div>
+          <canvas class="scene-canvas" data-tesseract="home" data-compact="true" tabindex="0" role="img" aria-label="Interactive wireframe projection of a rotating 4D hypercube. Drag to rotate, or use the arrow keys." aria-describedby="home-scene-help">A rotating 4D hypercube projected into three dimensions.</canvas>
+          <noscript><p class="noscript-note">The 4D canvas needs JavaScript. Read the static <a class="inline-link" href="/assets/tesseract-loop.gif">animation instead</a>.</p></noscript>
+          <figcaption class="viewport-foot" id="home-scene-help">
+            <span>Drag to rotate · <kbd>←</kbd> <kbd>→</kbd> <kbd>↑</kbd> <kbd>↓</kbd> to steer</span>
+            <button class="button button-quiet" type="button" data-motion-toggle aria-pressed="true">Pause motion</button>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section-tight">
+      <div class="page-wrap stat-strip reveal" aria-label="Selected project surfaces">
+        <div class="stat-cell"><strong>01 · WEB</strong><span>GṛhaLakṣmī — household finance</span></div>
+        <div class="stat-cell"><strong>02 · MOBILE</strong><span>ToDo — Expo interface experiment</span></div>
+        <div class="stat-cell"><strong>03 · DESKTOP</strong><span>ASH-HYPRLAND — Linux workspace</span></div>
+        <div class="stat-cell"><strong>04 · LAB</strong><span>Procedural 4D projection study</span></div>
+      </div>
+    </section>
+
+    <section class="section section-border" aria-labelledby="projects-title">
+      <div class="page-wrap">
+        <div class="section-head reveal">
+          <div><span class="index-mark">01 / PROJECT FILES</span><h2 id="projects-title">Useful things,<br /><span class="gradient-text">built across layers.</span></h2></div>
+          <p>Three different surfaces, each with a different kind of problem: household money, a small mobile task flow, and a configurable Linux workspace.</p>
+        </div>
+        <div class="project-grid">
+          <article class="project-card reveal" data-tilt style="--card-glow: rgba(128, 242, 202, 0.12); --card-accent: #80f2ca;">
+            <div class="card-topline"><span class="card-index">PROJECT / 01</span><span class="card-tag">WEB PRODUCT</span></div>
+            <span class="card-icon" aria-hidden="true">⌂</span>
+            <h3>GṛhaLakṣmī</h3>
+            <p>A household finance manager with income, expenses, budgets, goals, bills, loans, account records, and English/Sinhala UI support.</p>
+            <div class="tag-list"><span class="tag">React</span><span class="tag">TypeScript</span><span class="tag">Node</span><span class="tag">PostgreSQL</span></div>
+            <a class="card-link" href="/projects/#grhalakshmi">Open project dossier <span aria-hidden="true">↗</span></a>
+          </article>
+          <article class="project-card reveal" data-tilt style="--card-glow: rgba(98, 231, 242, 0.11); --card-accent: #62e7f2;">
+            <div class="card-topline"><span class="card-index">PROJECT / 02</span><span class="card-tag">MOBILE UI</span></div>
+            <span class="card-icon" aria-hidden="true">▦</span>
+            <h3>ToDo</h3>
+            <p>A compact Expo / React Native experiment with sign-in screens and a task-entry flow. Its current state and TODO edges are documented honestly.</p>
+            <div class="tag-list"><span class="tag">React Native</span><span class="tag">Expo</span><span class="tag">TypeScript</span></div>
+            <a class="card-link" href="/projects/#todo">Open project dossier <span aria-hidden="true">↗</span></a>
+          </article>
+          <article class="project-card reveal" data-tilt style="--card-glow: rgba(167, 139, 250, 0.15); --card-accent: #b9a4ff;">
+            <div class="card-topline"><span class="card-index">PROJECT / 03</span><span class="card-tag">LINUX WORKSPACE</span></div>
+            <span class="card-icon" aria-hidden="true">⌘</span>
+            <h3>ASH-HYPRLAND</h3>
+            <p>A personal Hyprland and dotfiles workspace with modular color, template, hot-reload, and IPC tooling.</p>
+            <div class="tag-list"><span class="tag">Hyprland</span><span class="tag">Shell</span><span class="tag">Lua</span><span class="tag">Python</span></div>
+            <a class="card-link" href="/projects/#ash-hyprland">Open project dossier <span aria-hidden="true">↗</span></a>
+          </article>
+        </div>
+        <div class="action-row reveal"><a class="button" href="/projects/">View all project notes <span class="button-icon" aria-hidden="true">↗</span></a></div>
+      </div>
+    </section>
+
+    <section class="section section-border" aria-labelledby="constellation-title">
+      <div class="page-wrap orbit-section">
+        <div class="orbit-copy reveal">
+          <span class="index-mark">02 / SYSTEM CONSTELLATION</span>
+          <h2 class="section-title" id="constellation-title">One archive.<br /><span class="gradient-text">Three environments.</span></h2>
+          <p>The repositories are separate projects, not one imaginary mega-system. This map shows the technologies around each real workstream.</p>
+          <a class="inline-link" href="/about/">Read the project-backed stack map →</a>
+        </div>
+        <div class="orbit-map reveal" role="img" aria-label="A visual map connecting the three projects with web, mobile, and Linux technology stacks">
+          <a class="orbit-node orbit-node-top" href="/projects/#grhalakshmi"><strong>GṛhaLakṣmī</strong><small>REACT · NODE · SQL</small></a>
+          <a class="orbit-node orbit-node-left" href="/projects/#todo"><strong>ToDo</strong><small>RN · EXPO</small></a>
+          <a class="orbit-node orbit-node-right" href="/projects/#ash-hyprland"><strong>ASH / LINUX</strong><small>SHELL · LUA</small></a>
+          <div class="orbit-node orbit-node-center"><strong>AY-29</strong><small>BUILD ARCHIVE</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border" aria-labelledby="process-title">
+      <div class="page-wrap">
+        <div class="section-head reveal">
+          <div><span class="index-mark">03 / BUILD LOOP</span><h2 id="process-title">A practical loop<br /><span class="gradient-text">for making progress.</span></h2></div>
+          <p>A small operating model for the work: start with a real need, make the data path legible, ship a useful increment, then learn from it.</p>
+        </div>
+        <div class="process-grid">
+          <article class="process-step reveal"><span>01 / NOTICE</span><h3>Find the routine</h3><p>Who is this for, and what should become easier?</p></article>
+          <article class="process-step reveal"><span>02 / MODEL</span><h3>Shape the problem</h3><p>Map the actors, information, and essential states.</p></article>
+          <article class="process-step reveal"><span>03 / BUILD</span><h3>Make it tangible</h3><p>Connect an interface to a coherent data path.</p></article>
+          <article class="process-step reveal"><span>04 / VERIFY</span><h3>Check the edges</h3><p>Try the empty, invalid, and interrupted cases.</p></article>
+          <article class="process-step reveal"><span>05 / REFINE</span><h3>Learn and iterate</h3><p>Keep what helps; simplify what does not.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border" aria-labelledby="lab-title">
+      <div class="page-wrap">
+        <div class="section-head reveal">
+          <div><span class="index-mark">04 / VISUAL LAB</span><h2 id="lab-title">A hypercube,<br /><span class="gradient-text">made explorable.</span></h2></div>
+          <p>The canvas uses local JavaScript to rotate a 4D cube through several planes, project it into 3D, and render the result in your browser. No CDN, third-party model host, or WebGL dependency.</p>
+        </div>
+        <div class="panel chart-panel reveal">
+          <div class="viewport-head"><strong>DIMENSIONAL VIEWPORT</strong><span>16 VERTICES · 32 EDGES</span></div>
+          <canvas class="scene-canvas" data-tesseract="home-lab" data-compact="true" tabindex="0" role="img" aria-label="A rotating 4D hypercube in a local canvas projection. Drag to steer the model." aria-describedby="inline-lab-help">A 4D hypercube projection rendered in the browser.</canvas>
+          <div class="viewport-foot" id="inline-lab-help"><span>Local procedural geometry · pointer + keyboard control</span><a class="inline-link" href="/lab/">Open full control deck →</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border">
+      <div class="page-wrap section-head reveal">
+        <div><span class="index-mark">05 / OPEN SOURCE PROFILE</span><h2>Want to explore<br /><span class="gradient-text">the source?</span></h2></div>
+        <div><p>The GitHub repositories are the canonical record for code and current implementation. Browse the project archive or open a specific repository directly.</p><div class="action-row"><a class="button button-primary" href="https://github.com/Ayesh2929?tab=repositories" target="_blank" rel="noopener noreferrer">Browse repositories <span class="button-icon" aria-hidden="true">↗</span></a><a class="button" href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">Visit GitHub profile <span class="button-icon" aria-hidden="true">↗</span></a></div></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="page-wrap footer-inner">
+      <span class="footer-copy">AY-29 · PERSONAL SYSTEMS ARCHIVE<br />VISUALS RENDER LOCALLY · NO THIRD-PARTY SCRIPT HOSTS</span>
+      <nav class="footer-links" aria-label="Footer navigation"><a href="/projects/">Projects</a><a href="/lab/">4D Lab</a><a href="/about/">About</a><a href="/README.md">Profile README</a></nav>
+    </div>
+  </footer>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

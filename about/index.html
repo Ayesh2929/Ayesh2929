@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#070811" />
+  <meta name="description" content="About Ayesh Perera — a project-backed view of interests, technologies, and principles." />
+  <link rel="icon" href="/assets/mark.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/assets/site.css" />
+  <title>About · Ayesh Perera</title>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/" aria-label="Ayesh Perera — home"><span class="brand-mark" aria-hidden="true">AY/29</span><span class="brand-name">AYESH PERERA<small>PERSONAL SYSTEMS ARCHIVE</small></span></a>
+      <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Open navigation"><span></span></button>
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="/" data-nav="home">01 / HOME</a>
+        <a class="nav-link" href="/projects/" data-nav="projects">02 / PROJECTS</a>
+        <a class="nav-link" href="/lab/" data-nav="lab">03 / 4D LAB</a>
+        <a class="nav-link" href="/about/" data-nav="about">04 / ABOUT</a>
+        <a class="nav-link" href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">GITHUB ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="page-wrap">
+        <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">ARCHIVE</a><span>/</span><span>ABOUT</span></nav>
+        <p class="eyebrow">IDENTITY · INTERESTS · WORKING NOTES</p>
+        <h1>Curiosity across<br /><span class="gradient-text">the whole stack.</span></h1>
+        <p>A project-backed introduction to Ayesh Perera (`@Ayesh2929`): what I build, the surfaces I work in, and the questions I like to keep asking.</p>
+      </div>
+    </section>
+
+    <section class="section-tight">
+      <div class="page-wrap about-grid">
+        <article class="about-copy reveal">
+          <span class="index-mark">01 / WHOAMI</span>
+          <h2 class="section-title">A builder with<br /><span class="gradient-text">multiple workbenches.</span></h2>
+          <p>I enjoy the connection between a product idea and the systems that make it useful. My public work includes a household-finance web application, a small React Native task interface, and a personal Linux desktop configuration project.</p>
+          <p>Those projects give me different lenses: data and localization in a web product; state, navigation, and touch interaction on mobile; and repeatable configuration and automation on the desktop.</p>
+          <p>This archive favors traceable details over status theater. Technologies are tied to repositories; charts explain what they count; incomplete paths are labeled as incomplete.</p>
+          <div class="action-row"><a class="button button-primary" href="https://github.com/Ayesh2929?tab=repositories" target="_blank" rel="noopener noreferrer">Browse the source <span class="button-icon" aria-hidden="true">↗</span></a></div>
+        </article>
+        <aside class="about-aside">
+          <article class="info-card reveal"><span class="micro-label">WORK SURFACES</span><h3>Three practical domains</h3><p>Product web · cross-platform mobile · Linux desktop tooling</p><div class="tag-list"><span class="tag">React</span><span class="tag">React Native</span><span class="tag">Hyprland</span></div></article>
+          <article class="info-card reveal"><span class="micro-label">CURRENT MODE</span><h3>Learn → build → refine</h3><p>Make a useful thing, understand its data path, then improve the rough edges with evidence.</p></article>
+          <article class="info-card reveal"><span class="micro-label">FIND ME</span><h3>GitHub</h3><p>Repository issues and public project pages are the best starting points for questions and collaboration.</p><div class="tag-list"><a class="tag" href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">@Ayesh2929 ↗</a></div></article>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section-border">
+      <div class="page-wrap">
+        <div class="section-head reveal"><div><span class="index-mark">02 / TOOL MAP</span><h2>Tools in the<br /><span class="gradient-text">public work.</span></h2></div><p>Manifest versions are included where available. A technology appearing in a repository is evidence of use in that project, not a claim of mastery.</p></div>
+        <div class="stack-matrix reveal">
+          <div class="stack-cell"><h3>Web product</h3><p>React 19.2 · TypeScript 5.9 · Vite 7 · Tailwind CSS 4 · Recharts 3</p></div>
+          <div class="stack-cell"><h3>API + persistence</h3><p>Node.js 20 · Express 4 · PostgreSQL 14+ · JWT · bcryptjs</p></div>
+          <div class="stack-cell"><h3>Mobile</h3><p>React Native 0.79 · Expo SDK 53 · Expo Router · AsyncStorage dependency</p></div>
+          <div class="stack-cell"><h3>Linux workspace</h3><p>Hyprland · Shell / Fish · Lua · Python · Neovim · color and IPC tooling</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border">
+      <div class="page-wrap">
+        <div class="section-head reveal"><div><span class="index-mark">03 / PRINCIPLES</span><h2>Questions I ask<br /><span class="gradient-text">while building.</span></h2></div></div>
+        <div class="process-grid">
+          <article class="process-step reveal"><span>01 / PURPOSE</span><h3>Who does this help?</h3><p>Start with a person and a routine, not a technology checklist.</p></article>
+          <article class="process-step reveal"><span>02 / DATA</span><h3>Who owns the record?</h3><p>Trace state and permission boundaries before widening an API.</p></article>
+          <article class="process-step reveal"><span>03 / UX</span><h3>What happens next?</h3><p>Make validation, waiting, empty, and error states visible.</p></article>
+          <article class="process-step reveal"><span>04 / CRAFT</span><h3>Can it be clearer?</h3><p>Prefer readable structure and specific names over mystery abstractions.</p></article>
+          <article class="process-step reveal"><span>05 / TRUTH</span><h3>What is actually shipped?</h3><p>Keep project notes and charts tied to source and current behavior.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border">
+      <div class="page-wrap">
+        <div class="section-head reveal"><div><span class="index-mark">04 / LEARNING HORIZON</span><h2>Room to explore<br /><span class="gradient-text">beyond the current build.</span></h2></div><p>These are directions to explore, not promises, credentials, or claims that every item is already implemented.</p></div>
+        <div class="formula-grid">
+          <article class="panel formula-card reveal"><span class="micro-label">PRODUCT SYSTEMS</span><code>model → API → interface</code><p>Clearer data ownership, safer deployment defaults, and useful reporting in full-stack projects.</p></article>
+          <article class="panel formula-card reveal"><span class="micro-label">MOBILE EXPERIENCE</span><code>state → interaction → feedback</code><p>Reliable local state, accessible touch flows, and predictable offline behavior.</p></article>
+          <article class="panel formula-card reveal"><span class="micro-label">DESKTOP AUTOMATION</span><code>config → validate → apply</code><p>Composable Linux setup, theme generation, and maintenance-friendly scripts.</p></article>
+          <article class="panel formula-card reveal"><span class="micro-label">VISUAL COMPUTING</span><code>coordinates → projection → insight</code><p>Using diagrams and procedural graphics to make complex structures easier to inspect.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-border">
+      <div class="page-wrap">
+        <div class="section-head reveal"><div><span class="index-mark">05 / OPEN ARCHIVE</span><h2>Follow the work<br /><span class="gradient-text">at the source.</span></h2></div><p>Public repositories provide the canonical details, open issues, and current implementation. No private contact information or placeholder social links are used here.</p></div>
+        <div class="project-grid">
+          <a class="project-card reveal" href="https://github.com/Ayesh2929/GrhaLaksmi" target="_blank" rel="noopener noreferrer" data-tilt style="--card-glow:rgba(128,242,202,.11);--card-accent:#80f2ca"><span class="card-index">01 / FINANCE WEB APP</span><span class="card-icon" aria-hidden="true">⌂</span><h3>GṛhaLakṣmī</h3><p>Household money tools and bilingual interface.</p><span class="card-link">Open repository <span aria-hidden="true">↗</span></span></a>
+          <a class="project-card reveal" href="https://github.com/Ayesh2929/ToDo" target="_blank" rel="noopener noreferrer" data-tilt style="--card-glow:rgba(98,231,242,.1);--card-accent:#62e7f2"><span class="card-index">02 / MOBILE UI</span><span class="card-icon" aria-hidden="true">▦</span><h3>ToDo</h3><p>Expo / React Native screen and task-state experiment.</p><span class="card-link">Open repository <span aria-hidden="true">↗</span></span></a>
+          <a class="project-card reveal" href="https://github.com/Ayesh2929/ASH-HYPRLAND" target="_blank" rel="noopener noreferrer" data-tilt style="--card-glow:rgba(167,139,250,.12);--card-accent:#b9a4ff"><span class="card-index">03 / LINUX TOOLING</span><span class="card-icon" aria-hidden="true">⌘</span><h3>ASH-HYPRLAND</h3><p>Hyprland setup with color, template, and shell modules.</p><span class="card-link">Open repository <span aria-hidden="true">↗</span></span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="page-wrap footer-inner"><span class="footer-copy">AYESH PERERA · @AYESH2929<br />PROJECT-BACKED · OPEN TO LEARNING</span><nav class="footer-links" aria-label="Footer navigation"><a href="/">Home</a><a href="/projects/">Projects</a><a href="/lab/">4D Lab</a><a href="https://github.com/Ayesh2929" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav></div></footer>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>
