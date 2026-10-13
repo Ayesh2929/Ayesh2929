@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--  ULTRA MAX QUANTUM RAW PAGE v10.0 — AYESH PERERA — DEEP SECRET EDITION       -->
+<!--  ULTRA MAX QUANTUM RAW PAGE v11.0 OMEGA INFINITY — AYESH PERERA — DEEP SECRET EDITION       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,8:0d0221,16:0a0533,24:1a0840,32:2d1b69,40:4c1d95,50:5b21b6,60:4c1d95,68:2d1b69,76:1a0840,84:0a0533,92:0d0221,100:000000&height=380&section=header&text=AYESH%20PERERA&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=◈%20ULTRA%20MAX%20•%20QUANTUM%20EDITION%20•%20RAW%20PAGE%20v10.0%20◈&descAlignY=53&descAlign=50&descSize=17&stroke=8b5cf6&strokeWidth=2.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,8:0d0221,16:0a0533,24:1a0840,32:2d1b69,40:4c1d95,50:5b21b6,60:4c1d95,68:2d1b69,76:1a0840,84:0a0533,92:0d0221,100:000000&height=380&section=header&text=AYESH%20PERERA&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=◈%20ULTRA%20MAX%20•%20OMEGA%20INFINITY%20EDITION%20•%20RAW%20PAGE%20v11.0%20◈&descAlignY=53&descAlign=50&descSize=17&stroke=8b5cf6&strokeWidth=2.5" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -43,7 +43,7 @@
 </td>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=800&color=FF006A&center=true&vCenter=true&width=220&height=30&lines=◉+MODE%3A+QUANTUM+ULTRA;◉+BUILD%3Av10.0+RAW;◉+CLASS%3A+SECRET+LEVEL)](https://github.com/Ayesh2929)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=800&color=FF006A&center=true&vCenter=true&width=220&height=30&lines=◉+MODE%3A+QUANTUM+ULTRA;◉+BUILD%3Av11.0 OMEGA INFINITY+RAW;◉+CLASS%3A+SECRET+LEVEL)](https://github.com/Ayesh2929)
 
 </td>
 </tr>
@@ -89,7 +89,7 @@
 ### ⚡ RAW TELEMETRY — LIVE SYSTEM FEED ⚡
 
 ```diff
-+ [SYSTEM]  AYESH_OS v10.0 QUANTUM ULTRA MAX  —  KERNEL: 6.11.0-ayesh-quantum
++ [SYSTEM]  AYESH_OS v11.0 OMEGA INFINITY QUANTUM ULTRA MAX  —  KERNEL: 6.11.0-ayesh-quantum
 + [UPTIME]  5+ years  |  50+ projects  |  1M+ lines  |  100K+ users impacted
 + [STACK]   TypeScript ■■■■■ 95%  |  Java 21 ■■■■■ 92%  |  React/RN ■■■■ 90%
 ! [MODE]    DEEP SECRET // RAW PAGE // ADVANCE DESIGN // CHARACTERS + OBJECTS + CHARTS
@@ -1579,7 +1579,7 @@ C4Context
 
 ```mermaid
 mindmap
-  root((**⚡ AYESH PERERA**<br/>ULTRA MAX Architect 2026<br/>QUANTUM EDITION))
+  root((**⚡ AYESH PERERA**<br/>ULTRA MAX Architect 2026<br/>OMEGA INFINITY EDITION))
     **🎨 Frontend Mastery**
       React 19 Server Components
         Streaming SSR
@@ -2612,6 +2612,1271 @@ Scale
 </div>
 
 ---
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"/> OMEGA EXPANSION — INFINITY RAW LEVEL v11.0
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:1a0840,40:4c1d95,60:8b5cf6,80:4c1d95,100:000000&height=130&text=⬢%20OMEGA%20INFINITY%20RAW%20⬢&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=LEVEL%2011.0%20•%20DEEP%20SECRET%20OMEGA%20•%20MASSIVE%20•%20ADVANCE%20•%20ULTRA%20MAX&descSize=13&descAlignY=75&fontAlignY=42" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=2000&pause=400&color=FF006A&center=true&vCenter=true&width=900&height=35&lines=⚡+OMEGA+LEVEL+DECRYPTED+—+WELCOME+TO+INFINITY+RAW;⬢+8+CHARACTERS+•+30+OBJECTS+•+20+CHARTS+•+100%25+MASSIVE;🔓+SECRET+LEVEL:+INFINITY+—+YOU+ARE+NOW+0.1%25+OF+VISITORS)](https://github.com/Ayesh2929)
+
+</div>
+
+---
+
+### 🧬 CHARACTER CODEX — EXPANDED ROSTER — 8 ENTITIES ULTRA
+
+<div align="center">
+
+> **The full party. Each entity guards a domain of the forge. Together — OMEGA.**
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-875e32c7-8a7a-42b1-8e5c-212a6b476843.gif" width="150"/><br/>
+
+### 🧙‍♂️ `AYESH-01`
+**THE ARCHITECT** — *Leader*
+
+```yaml
+codename: ARCHITECT-01
+class: System Architect
+level: 99 — MAX
+origin: Kegalle, LK 🇱🇰
+weapon: TypeScript 5.6 + Java 21 VT
+artifact: Hexagonal Grimoire
+trait: Sees systems in 4D
+weakness: None (coffee ∞)
+```
+
+**LORE:** Forged in 2021 from first `console.log`. Saw monoliths fall, built microservices from ash. Can whiteboard entire C4 in one breath.
+
+![Leader](https://img.shields.io/badge/LEADER-8b5cf6?style=for-the-badge&labelColor=0d0d1a)
+![Hexagonal](https://img.shields.io/badge/HEXAGONAL-MASTER-7c3aed?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="150"/><br/>
+
+### 🤖 `BYTE`
+**AI COMPANION** — *Intelligence*
+
+```yaml
+codename: BYTE-07
+class: AI Orchestrator
+level: 87
+origin: Vector Dimension
+weapon: LangChain + pgvector 1536d
+artifact: Embedding Prism
+trait: Remembers everything
+weakness: Needs good prompts
+```
+
+**LORE:** Born from first RAG pipeline. Lives between embeddings. Whispers `"have you tried cosine similarity?"` at 3am.
+
+![AI](https://img.shields.io/badge/AI_ORACLE-00d26a?style=for-the-badge&labelColor=0d0d1a)
+![RAG](https://img.shields.io/badge/RAG_V2-LIVE-10b981?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e55a69-6546-48de-b58f-1725aad22282.gif" width="150"/><br/>
+
+### 👾 `KERNEL`
+**DEVOPS DAEMON** — *Platform*
+
+```yaml
+codename: KERNEL-09
+class: Platform Engineer
+level: 92
+origin: /var/log
+weapon: Terraform + ArgoCD + Istio
+artifact: YAML Hammer (cursed)
+trait: Never sleeps, always reconciles
+weakness: YAML indentation
+```
+
+**LORE:** Daemon that escaped from a K8s pod and now manages the cluster. Says `"it works on my cluster"` unironically.
+
+![Daemon](https://img.shields.io/badge/DAEMON-3b82f6?style=for-the-badge&labelColor=0d0d1a)
+![GitOps](https://img.shields.io/badge/GITOPS-ARGO-326CE5?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-458d-9cc8-00f81553d786.gif" width="150"/><br/>
+
+### 🐛 `GLITCH`
+**DEBUG ENTITY** — *Hunter*
+
+```yaml
+codename: GLITCH-13
+class: Debugger
+level: 85
+origin: Stack Trace Abyss
+weapon: OTel + Jaeger + Sentry
+artifact: Magnifying Core
+trait: Finds Heisenbugs
+weakness: Works on my machine
+```
+
+**LORE:** Entity that feeds on race conditions. Friendly if you write tests. Terrifying if you don't.
+
+![Hunter](https://img.shields.io/badge/HUNTER-f59e0b?style=for-the-badge&labelColor=0d0d1a)
+![OTel](https://img.shields.io/badge/OTEL-TRACED-ff6b6b?style=flat-square&labelColor=0d0d1a)
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-82633957-c2d2-4d9c-91d2-624a87a8336b.gif" width="150"/><br/>
+
+### 🗄️ `NEXUS`
+**DATABASE ORACLE** — *Memory*
+
+```yaml
+codename: NEXUS-04
+class: Data Keeper
+level: 90
+origin: PostgreSQL WAL
+weapon: SQL + pgvector + Redis
+artifact: Index Crown
+trait: Never forgets, never loses
+weakness: N+1 queries (rage)
+```
+
+**LORE:** Oracle that lives in `EXPLAIN ANALYZE`. Can smell missing index from 3 files away. Says `"have you added an index?"` as greeting.
+
+![Oracle](https://img.shields.io/badge/ORACLE-316192?style=for-the-badge&labelColor=0d0d1a)
+![PG](https://img.shields.io/badge/PG16-GUARDIAN-316192?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281674-19e78a85-1a8a-4172-a669-de5e30d61558.gif" width="150"/><br/>
+
+### 🛡️ `SPECTRE`
+**SECURITY WRAITH** — *Guardian*
+
+```yaml
+codename: SPECTRE-00
+class: Security Wraith
+level: 88
+origin: Zero Trust Void
+weapon: OIDC + mTLS + OPA
+artifact: Sigil of mTLS
+trait: Sees every vulnerability
+weakness: Trusts no one
+```
+
+**LORE:** Wraith that enforces policy-as-code. Appears when you `chmod 777`. Whispers `"least privilege"` in your dreams.
+
+![Wraith](https://img.shields.io/badge/WRAITH-ff006a?style=for-the-badge&labelColor=0d0d1a)
+![ZeroTrust](https://img.shields.io/badge/ZERO_TRUST-mTLS-000000?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281756-12244a14-9d8e-41e0-81ad-bf94163ab423.gif" width="150"/><br/>
+
+### ⚡ `PHOTON`
+**FRONTEND PHANTOM** — *Light*
+
+```yaml
+codename: PHOTON-22
+class: Frontend Phantom
+level: 89
+origin: 60fps Realm
+weapon: React 19 + Reanimated 3 + Skia
+artifact: Frame Prism (60Hz)
+trait: Never drops a frame
+weakness: Layout thrashing
+```
+
+**LORE:** Phantom that lives at 60fps. Can spot 1ms jank blindfolded. Casts `requestAnimationFrame` like spells.
+
+![Phantom](https://img.shields.io/badge/PHOTON-61DAFB?style=for-the-badge&labelColor=0d0d1a)
+![60fps](https://img.shields.io/badge/60FPS-LOCKED-00d26a?style=flat-square&labelColor=0d0d1a)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281083-78685882-afa4-43a1-8fe0-1822a5961dd1.gif" width="150"/><br/>
+
+### 🏔️ `ATLAS`
+**CLOUD TITAN** — *Scale*
+
+```yaml
+codename: ATLAS-99
+class: Cloud Titan
+level: 91
+origin: us-east-1 (and everywhere)
+weapon: AWS + GCP + Cloudflare Edge
+artifact: Global Load Balancer
+trait: Scales to infinity
+weakness: Cost explorer at month end
+```
+
+**LORE:** Titan who holds the cloud on shoulders. Auto-scales before you need it. Says `"have you checked the bill?"` monthly.
+
+![Titan](https://img.shields.io/badge/TITAN-FF9900?style=for-the-badge&labelColor=0d0d1a)
+![MultiRegion](https://img.shields.io/badge/MULTI_REGION-ACTIVE-4285F4?style=flat-square&labelColor=0d0d1a)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+```mermaid
+graph TD
+    ARCH[🧙‍♂️ ARCHITECT] --- BYTE[🤖 BYTE]
+    ARCH --- KERNEL[👾 KERNEL]
+    ARCH --- GLITCH[🐛 GLITCH]
+    BYTE --- NEXUS[🗄️ NEXUS]
+    KERNEL --- ATLAS[🏔️ ATLAS]
+    GLITCH --- SPECTRE[🛡️ SPECTRE]
+    NEXUS --- SPECTRE
+    PHOTON[⚡ PHOTON] --- ARCH
+    ATLAS --- NEXUS
+    SPECTRE --- PHOTON
+    ARCH --> CORE[⬢ OMEGA CORE<br/>AYESH FORGE]
+    BYTE --> CORE
+    KERNEL --> CORE
+    GLITCH --> CORE
+    NEXUS --> CORE
+    SPECTRE --> CORE
+    PHOTON --> CORE
+    ATLAS --> CORE
+    CORE --> USERS[🌍 100K+ USERS<br/>99.9% UPTIME]
+
+    style ARCH fill:#2d1b69,stroke:#8b5cf6,color:#fff
+    style BYTE fill:#064e3b,stroke:#10b981,color:#fff
+    style KERNEL fill:#1e3a5f,stroke:#3b82f6,color:#fff
+    style GLITCH fill:#451a03,stroke:#f59e0b,color:#fff
+    style NEXUS fill:#1a1a2e,stroke:#818cf8,color:#fff
+    style SPECTRE fill:#3b0764,stroke:#ff006a,color:#fff
+    style PHOTON fill:#164e63,stroke:#61DAFB,color:#fff
+    style ATLAS fill:#7c2d12,stroke:#FF9900,color:#fff
+    style CORE fill:#0d0d1a,stroke:#8b5cf6,color:#fff
+    style USERS fill:#065f46,stroke:#00d26a,color:#fff
+```
+
+**OMEGA Party — Full Synergy Graph**
+
+</td>
+<td width="50%" align="center" valign="top">
+
+#### 📊 Party Power Levels — OMEGA
+
+```
+┌─────────────────────────────────┐
+│  🧙 ARCHITECT  ████████████ 99  │
+│  👾 KERNEL     ██████████▓░ 92  │
+│  🏔️ ATLAS      ██████████▓░ 91  │
+│  🗄️ NEXUS      ██████████░░ 90  │
+│  ⚡ PHOTON     ██████████░░ 89  │
+│  🛡️ SPECTRE    █████████▓░░ 88  │
+│  🤖 BYTE      █████████▓░░ 87  │
+│  🐛 GLITCH    █████████░░░ 85  │
+├─────────────────────────────────┤
+│  PARTY AVG: 91.4 — SSS RANK    │
+│  SYNERGY: ████████████ 100%    │
+│  MODE: OMEGA INFINITY          │
+└─────────────────────────────────┘
+```
+
+<img src="https://img.shields.io/badge/PARTY-OMEGA_INFINITY-ff006a?style=for-the-badge&labelColor=0d0d1a&logo=sparkles&logoColor=ff006a" />
+<img src="https://img.shields.io/badge/RANK-SSS+-00d26a?style=for-the-badge&labelColor=0d0d1a&logo=star&logoColor=00d26a" />
+<img src="https://img.shields.io/badge/SYNERGY-100%25-8b5cf6?style=for-the-badge&labelColor=0d0d1a&logo=zap&logoColor=8b5cf6" />
+
+<br/>
+
+**CODEX:** *When all 8 entities sync, the forge enters OMEGA — where P99 < 50ms, 99.9% uptime, and coffee is infinite.*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🏛️ OBJECT MUSEUM — ULTRA EXPANDED — 3D FORGE
+
+<div align="center">
+
+> **Every object tells a war story. Welcome to the 3D forge museum.**
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+#### 💻 **WORKBENCH ALPHA**
+
+<img src="https://img.shields.io/badge/MacBook_Pro-M3_MAX_16-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/64GB-Unified-8b5cf6?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/2TB-NVMe_4K-00d26a?style=flat-square&labelColor=0d0d1a" />
+
+```
+   ╔════════════════════╗
+   ║  ████████████████  ║
+   ║  █  RETINA XDR  █  ║
+   ║  █   120Hz     █  ║
+   ║  ████████████████  ║
+   ╚════════════════════╝
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+   ┌──────────────────┐
+   │ QMK • 75% • Thock│
+   │ OLED 4K 144Hz x2 │
+   │ Studio Display   │
+   └──────────────────┘
+```
+
+`Zed + Neovim + VS Code`<br/>
+`Warp • Starship • Tmux`<br/>
+`Raycast • Linear • Figma`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+#### 🖥️ **SERVER RACK — OMEGA**
+
+<img src="https://img.shields.io/badge/RACK-EKS_+_GKE_10_NODES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/NODES-4x4_16_vCPU-FF9900?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/MESH-Istio_mTLS-466BB0?style=flat-square&labelColor=0d0d1a" />
+
+```
+ ┌──────────────────────┐
+ │ [▭▭▭] EKS NODE 01 ●  │
+ │ [▭▭▭] EKS NODE 02 ●  │
+ │ [▭▭▭] GKE NODE 03 ●  │
+ │ [▭▭▭] RACK 04   ●  │
+ ├──────────────────────┤
+ │  KARPENTER AUTOSCALE │
+ │  HPA + VPA + KEDA   │
+ │  SPOT + ON-DEMAND   │
+ └──────────────────────┘
+  ⚡ 10K req/sec • 200K VT
+```
+
+`ArgoCD • Helm • Kustomize`<br/>
+`Prometheus • Grafana • Loki`<br/>
+`OTel • Jaeger • Sentry`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+#### ☕ **COFFEE ATELIER**
+
+<img src="https://img.shields.io/badge/ATELIER-POUR_OVER_LAB-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/BEANS-SINGLE_ORIGIN_LK-8B4513?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/LEVEL-BARISTA_∞-6F4E37?style=flat-square&labelColor=0d0d1a" />
+
+```
+    (  )   (   )  )
+     ) (   )  (  (
+     ( )  (    ) )
+     _______________
+    |  POUR OVER  |
+    |  ○ Chemex   |
+    |  ○ V60      |
+    |  ○ AeroPress|
+     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+    ESPRESSO • COLD BREW
+    ∞ REFACTORS PER SIP
+```
+
+`Chemex • V60 • AeroPress`<br/>
+`Espresso • Cold Brew Loop`<br/>
+`☕ The real DI container`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+#### 🎧 **AUDIO FORGE**
+
+<img src="https://img.shields.io/badge/SONY-WH--1000XM5-000000?style=for-the-badge&logo=sony&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/MODE-NOISE_CANCELLING-000000?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/PLAYLIST-LOFI_+_SYNTHWAVE-8b5cf6?style=flat-square&labelColor=0d0d1a" />
+
+```
+   ┌──────┐      ┌──────┐
+   │  ◉   │──────│   ◉  │
+   │ WH-  │      │  XM5 │
+   └──────┘      └──────┘
+      ANC ON • 30H BAT
+   🎵 Lofi Girl • Synthwave
+   🎧 Deep Focus • Flow State
+```
+
+`Lofi • Synthwave • Ambient`<br/>
+`Flow state frequency`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+#### 📚 **LIBRARY — KNOWLEDGE VAULT**
+
+<img src="https://img.shields.io/badge/LIBRARY-100+_BOOKS-7c2d12?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/TOP-DDD_+_CLEAN_ARCH-065f46?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/CURRENT-QUANTUM_CRYPTO-3b0764?style=flat-square&labelColor=0d0d1a" />
+
+```
+  ┌─────────────────────┐
+  │ 📕 DDD — Evans     │
+  │ 📘 Clean Arch      │
+  │ 📙 System Design   │
+  │ 📗 Designing Data  │
+  │ 📓 Quantum Crypto  │
+  │ 📔 Staff Engineer  │
+  └─────────────────────┘
+   50+ READ • ∞ TO READ
+```
+
+`DDD • Clean Arch • SRE`<br/>
+`Designing Data-Intensive Apps`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+#### 🌐 **EDGE NETWORK**
+
+<img src="https://img.shields.io/badge/EDGE-CLOUDFLARE_GLOBAL-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/POPS-300+_WORLDWIDE-F38020?style=flat-square&labelColor=0d0d1a" />
+<img src="https://img.shields.io/badge/LATENCY-<30ms_EDGE-00d26a?style=flat-square&labelColor=0d0d1a" />
+
+```
+      ☁️  ☁️  ☁️  ☁️
+    ┌─────────────────┐
+    │  CF WORKERS     │
+    │  VERCEL EDGE    │
+    │  S3 + R2 CDN    │
+    │  300+ PoPs      │
+    └─────────────────┘
+      ◉ Colombo
+      ◉ Singapore ◉ Tokyo
+      ◉ Frankfurt ◉ NYC
+```
+
+`Global • Anycast • <30ms`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+**🔧 Sacred Tools Wall**
+
+![Brave](https://img.shields.io/badge/Brave-Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc-Browser-FC5D5D?style=flat-square&logo=arc&logoColor=white)
+![1Password](https://img.shields.io/badge/1Password-Vault-0096CF?style=flat-square&logo=1password&logoColor=white)
+![Raycast](https://img.shields.io/badge/Raycast-Launcher-FF6363?style=flat-square&logo=raycast&logoColor=white)
+![CleanShot](https://img.shields.io/badge/CleanShot-X-000000?style=flat-square&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-DB-FF6B6B?style=flat-square&logoColor=white)
+
+</td>
+<td align="center">
+
+**📐 Design Arsenal**
+
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-Whiteboard-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-3D-FF6B6B?style=flat-square&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-Interactive-1C1C1E?style=flat-square&logo=rive&logoColor=white)
+
+</td>
+<td align="center">
+
+**🚀 Ship Wall**
+
+![Docker](https://img.shields.io/badge/Docker-Shipped-2496ED?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/K8s-Orchestrated-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-Published-CB3837?style=flat-square&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2000_COMMITS-000000?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-Monitored-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 CHART UNIVERSE — EXPANDED — 20 CHARTS ULTRA
+
+<div align="center">
+
+> **From 12 → 20 charts. The most advanced telemetry wall on GitHub.**
+
+</div>
+
+#### 13. 🧩 Class Diagram — Domain Model Ultra
+
+```mermaid
+classDiagram
+    class Message {
+        -MessageId id
+        -ConversationId conversationId
+        -UserId senderId
+        -MessageContent content
+        -MessageStatus status
+        -Instant createdAt
+        +create(props) Result~Message~
+        +markDelivered() Result
+        +markRead(readerId) Result
+        +edit(content, editorId) Result
+        +addDomainEvent(event)
+    }
+    class MessageContent {
+        -String value
+        +create(content) Result~MessageContent~
+        +value() String
+    }
+    class MessageId {
+        -UUID value
+        +generate() MessageId
+        +create(value) MessageId
+    }
+    class Conversation {
+        -ConversationId id
+        -Set~UserId~ members
+        -ConversationType type
+        +hasMember(userId) boolean
+        +addMember(userId) Result
+    }
+    class User {
+        -UserId id
+        -Handle handle
+        -Email email
+        +canAccess(conversation) boolean
+    }
+    class DomainEvent {
+        <<interface>>
+        +occurredAt() Instant
+        +aggregateId() String
+    }
+    class MessageSentEvent {
+        -Message message
+        +occurredAt() Instant
+    }
+    class OutboxEvent {
+        -UUID id
+        -String topic
+        -String payload
+        -OutboxStatus status
+        +markPublished()
+        +markFailed(reason)
+    }
+
+    Message *-- MessageContent
+    Message *-- MessageId
+    Message --> Conversation : belongs to
+    Message --> User : sent by
+    Message ..> DomainEvent : emits
+    MessageSentEvent ..|> DomainEvent
+    DomainEvent --> OutboxEvent : persisted as
+    Conversation *-- User : members
+    User *-- Message : sends
+```
+
+#### 14. 🔄 State Diagram — Message Lifecycle Ultra
+
+```mermaid
+stateDiagram-v2
+    [*] --> Draft: create()
+    Draft --> Sent: persist() + outbox
+    Sent --> Delivered: WS fan-out + ACK
+    Sent --> Failed: delivery timeout
+    Delivered --> Read: recipient read + receipt
+    Delivered --> Edited: sender edit (5min window)
+    Edited --> Delivered: version++ + event
+    Read --> Edited: sender edit (still)
+    Edited --> Read: re-read
+    Read --> Deleted: sender delete (soft)
+    Delivered --> Deleted: sender delete
+    Sent --> Deleted: sender delete
+    Failed --> Retrying: exponential backoff
+    Retrying --> Sent: retry publish
+    Retrying --> Failed: max retries
+    Failed --> Deleted: TTL expired
+    Deleted --> [*]
+    Read --> [*]: archived
+
+    note right of Sent: Outbox → Kafka<br/>P99 <50ms
+    note right of Delivered: Redis pub/sub<br/>Fan-out
+    note right of Failed: DLQ + Alert
+```
+
+#### 15. 🧱 Block Diagram — Infrastructure Blocks
+
+```mermaid
+block-beta
+  columns 4
+  block:client:4
+    columns 3
+    rn["📱 RN 0.76"] web["🌐 Next 15"] desk["🖥️ Tauri"]
+  end
+  block:edge:4
+    columns 3
+    cf["☁️ Cloudflare"] gw["⚖️ Kong GW"] auth["🔐 Keycloak"]
+  end
+  block:services:4
+    columns 4
+    user["👤 User"] chat["💬 Chat"] file["📁 File"] ai["🤖 AI"]
+    search["🔍 Search"] notif["🔔 Notif"] analytics["📊 Analytics"] billing["💳 Billing"]
+  end
+  block:data:4
+    columns 4
+    pg["🐘 PG16"] mongo["🍃 Mongo"] redis["⚡ Redis"] elastic["🔍 Elastic"]
+    pinecone["📌 Pinecone"] s3["☁️ S3"] click["📊 ClickHouse"] neo["🕸️ Neo4j"]
+  end
+  block:observe:4
+    columns 3
+    prom["📈 Prometheus"] jaeger["🔍 Jaeger"] grafana["📊 Grafana"]
+  end
+
+  rn --> cf
+  web --> cf
+  desk --> cf
+  cf --> gw --> auth
+  auth --> user
+  auth --> chat
+  user --> pg
+  chat --> mongo
+  chat --> redis
+  ai --> pinecone
+  file --> s3
+  client --> edge
+  edge --> services
+  services --> data
+  services --> observe
+```
+
+#### 16. 📦 Requirement Diagram — System Requirements Ultra
+
+```mermaid
+requirementDiagram
+    requirement functional_req {
+        id: 1
+        text: "Real-time messaging @60fps with <50ms P99"
+        risk: high
+        verifymethod: test
+    }
+    requirement realtime_req {
+        id: 1.1
+        text: "WebSocket STOMP + Redis fan-out"
+        risk: high
+        verifymethod: test
+    }
+    requirement offline_req {
+        id: 1.2
+        text: "Offline-first + sync on reconnect"
+        risk: medium
+        verifymethod: test
+    }
+    requirement security_req {
+        id: 2
+        text: "E2E encryption + mTLS + OIDC"
+        risk: high
+        verifymethod: inspection
+    }
+    requirement scale_req {
+        id: 3
+        text: "10K req/sec + 200K VT concurrency"
+        risk: high
+        verifymethod: test
+    }
+    requirement ai_req {
+        id: 4
+        text: "RAG pipelines + AI agents + tools"
+        risk: medium
+        verifymethod: demonstration
+    }
+    requirement observe_req {
+        id: 5
+        text: "OTel tracing + 99.9% SLO"
+        risk: medium
+        verifymethod: inspection
+    }
+
+    functional_req -contains-> realtime_req
+    functional_req -contains-> offline_req
+    functional_req -derives-> scale_req
+    security_req -derives-> realtime_req
+    ai_req -contains-> functional_req
+    observe_req -verifies-> scale_req
+```
+
+#### 17. 🔀 Packet Diagram — WebSocket Frame Ultra
+
+```mermaid
+packet-beta
+  0-7: "Frame Opcode (8b)"
+  8-15: "Payload Length (8b)"
+  16-31: "Masking Key (16b)"
+  32-63: "JWT Token (32b)"
+  64-95: "ConversationId (32b)"
+  96-127: "Message Payload (32b)"
+  128-159: "Checksum CRC32 (32b)"
+  160-191: "Timestamp (32b)"
+```
+
+#### 18. 🗂️ Kanban Flow — Engineering Workflow Ultra
+
+```mermaid
+flowchart TB
+    subgraph Backlog["📋 BACKLOG — Ideas"]
+        A[💡 Idea] --> B[📝 RFC]
+    end
+    subgraph Todo["📝 TODO — Ready"]
+        B --> C[✅ Ready]
+        C --> D[🎯 Sprint]
+    end
+    subgraph Doing["⚡ DOING — Active"]
+        D --> E[💻 Coding]
+        E --> F[🧪 Testing]
+        F --> G[👀 Review]
+    end
+    subgraph Review["👀 REVIEW — Gates"]
+        G --> H{2 Approvals?}
+        H -->|No| E
+        H -->|Yes| I[🔍 QA]
+    end
+    subgraph Done["✅ DONE — Shipped"]
+        I --> J[🚀 Canary 5%]
+        J --> K[📊 SLO Check]
+        K -->|Fail| L[⏪ Rollback]
+        L --> E
+        K -->|Pass| M[🌟 100% Prod]
+        M --> N[🎉 Retro]
+    end
+
+    style Backlog fill:#1e3a5f,stroke:#61DAFB,color:#fff
+    style Todo fill:#2d1b69,stroke:#8b5cf6,color:#fff
+    style Doing fill:#064e3b,stroke:#10b981,color:#fff
+    style Review fill:#451a03,stroke:#f59e0b,color:#fff
+    style Done fill:#065f46,stroke:#00d26a,color:#fff
+```
+
+#### 19. 🧠 Mindmap 2 — Deep Tech Tree Ultra
+
+```mermaid
+mindmap
+  root((⬢ AYESH FORGE<br/>INFINITY))
+    Frontend
+      React 19.1 ::icon(fa fa-atom)
+        RSC
+        Actions
+        Compiler
+      Performance
+        60fps Locked
+        Skia GPU
+        Web Vital 100
+    Backend
+      Java 21 Loom
+        200K Threads
+        Structured Concurrency
+      Event Driven
+        Outbox → Kafka
+        CQRS → Read/Write
+        Saga → Orchestration
+    Data
+      Polyglot
+        PG16 Primary
+        Mongo Sharded
+        Redis Cluster
+      Vector
+        1536 dim
+        HNSW Index
+        Hybrid Search
+    Platform
+      GitOps
+        ArgoCD Sync
+        Helm + Kustomize
+        Flagger Canary
+      Observe
+        OTel 360°
+        SLO Burn
+        Chaos Litmus
+```
+
+#### 20. 📅 Timeline 2 — Commit Heatmap & Productive Time
+
+```mermaid
+gantt
+    title Productive Time — Weekly Heatmap (RAW — UTC+5:30)
+    dateFormat HH:mm
+    axisFormat %H:%M
+    section Monday
+    Deep Work (TS/Java)    :done, 09:00, 13:00
+    Code Review + Ship     :active, 14:00, 18:00
+    Learning + OSS         : 19:00, 21:00
+    section Wednesday
+    Deep Work (AI/RAG)     :done, 09:00, 13:00
+    Pair + Mentor          :active, 14:00, 17:00
+    Deep Work (K8s)        : 19:00, 22:00
+    section Friday
+    Ship Friday 🚀         :done, 09:00, 12:00
+    Retro + Docs           :active, 13:00, 15:00
+    Coffee + Ideas ☕      : 15:00, 18:00
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CHARTS-20_LIVE-10b981?style=for-the-badge&labelColor=0d0d1a&logo=chartdotjs&logoColor=10b981" />
+<img src="https://img.shields.io/badge/TELEMETRY-OMEGA-8b5cf6?style=for-the-badge&labelColor=0d0d1a&logo=activity&logoColor=8b5cf6" />
+<img src="https://img.shields.io/badge/COVERAGE-100%25-00d26a?style=for-the-badge&labelColor=0d0d1a&logo=checkmarx&logoColor=00d26a" />
+
+</div>
+
+---
+
+### 🔐 SECRET VAULT — LEVEL 2, 3, 4 — DEEPER RAW
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:1a0840,100:ff006a&height=110&text=⬡%20VAULT%20LEVEL%202–4%20—%20DEEPER%20DECRYPT%20⬡&fontSize=22&fontColor=ffffff&animation=fadeIn&desc=HEX%20•%20BASE64%20•%20CIPHER%20•%20RAW%20TELEMETRY%20OMEGA&descSize=12&descAlignY=73&fontAlignY=40" width="100%"/>
+
+</div>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔢%20LEVEL%202%20—%20HEX%20DUMP%20—%20AYESH.FORGE-0d0d1a?style=for-the-badge&labelColor=00d26a&color=00d26a"/></summary>
+<br/>
+
+```hex
+00000000: 41 59 45 53 48 5f 46 4f 52 47 45 5f 56 31 31 2e  AYESH_FORGE_V11.
+00000010: 30 20 4f 4d 45 47 41 20 49 4e 46 49 4e 49 54 59  0 OMEGA INFINITY
+00000020: 20 52 41 57 20 2d 20 44 45 45 50 20 53 45 43 52   RAW - DEEP SECR
+00000030: 45 54 20 4c 45 56 45 4c 20 49 4e 46 49 4e 49 54  ET LEVEL INFINIT
+00000040: 59 0a 48 41 4e 44 4c 45 3a 20 40 41 79 65 73 68  Y.HANDLE: @Ayesh
+00000050: 32 39 32 39 20 7c 20 53 52 49 20 4c 41 4e 4b 41  2929 | SRI LANKA
+00000060: 20 f0 9f 87 b1 f0 9f 87 b0 20 37 2e 32 35 31 33   ...... 7.2513
+00000070: c2 b0 20 4e 2c 20 38 30 2e 33 34 36 34 c2 b0 20  . N, 80.3464. 
+00000080: 45 0a 53 54 41 54 55 53 3a 20 f0 9f 9f a2 20 55  E.STATUS: ... U
+00000090: 4c 54 52 41 20 4d 41 58 20 4f 4d 45 47 41 20 7c  LTRA MAX OMEGA |
+000000a0: 20 31 4d 2b 20 4c 49 4e 45 53 20 7c 20 35 30 2b   1M+ LINES | 50+
+000000b0: 20 50 52 4f 4a 45 43 54 53 20 7c 20 31 30 30 4b   PROJECTS | 100K
+000000c0: 2b 20 55 53 45 52 53 0a 43 48 41 52 53 3a 20 32  + USERS.CHARS: 2
+000000d0: 30 20 4c 49 56 45 20 7c 20 43 48 41 52 41 43 54  0 LIVE | CHARACT
+000000e0: 45 52 53 3a 20 38 20 41 43 54 49 56 45 20 7c 20  ERS: 8 ACTIVE | 
+000000f0: 4f 42 4a 45 43 54 53 3a 20 33 30 2b 20 56 41 55  OBJECTS: 30+ VAU
+00000100: 4c 54 20 4c 4f 41 44 45 44 0a                    LT LOADED.
+
+# DECODED: AYESH_FORGE_V11.0 OMEGA INFINITY — DEEP SECRET — 8 chars, 20 charts, 30+ objects
+```
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔤%20LEVEL%203%20—%20BASE64%20—%20SECRET%20MESSAGE-0d0d1a?style=for-the-badge&labelColor=8b5cf6&color=8b5cf6"/></summary>
+<br/>
+
+```base64
+QVlFU0hfRk9SR0VfVjExLjAgT01FR0EgSU5GSU5JVFkgUkFXIC0gREVFUCBTRUNSRVQgTEVWRUwgMTEK
+SGFuZGxlOiBAQXllc2gyOTI5IHwgU3JpIExhbmthIPCfm7Hwn5KwIDcuMjUxM8KwIE4sIDgwLjM0NjTC
+sCBFIC0gUmVtb3RlIFdvcmxkd2lkZSDwn4yPClN0YXR1czog8J+fiqIgVUxUUkEgTUFYIE9NRUdBIE9D
+Q0x1ZGVkIC0gQ2hhcnM6IDIwIExpdmUgKysrCk1lc3NhZ2U6IElmIHlvdSBkZWNvZGVkIHRoaXMsIHlv
+dSBhcmUgbXkgdHlwZSBvZiBlbmdpbmVlci4gTGV0J3MgYnVpbGQgbGVnZW5kYXJ5IHN5c3RlbXMgdG9n
+ZXRoZXIg4oCUIGF5ZXNoLmJ1aWxkVG9tb3Jyb3codG9kYXkubGVzc29ucykg8J+agAo=
+
+# DECODED:
+# AYESH_FORGE_V11.0 OMEGA INFINITY RAW - DEEP SECRET LEVEL 11
+# Handle: @Ayesh2929 | Sri Lanka 🇱🇰 7.2513° N, 80.3464° E - Remote Worldwide 🌍
+# Status: 🟢 ULTRA MAX OMEGA Occuled - Chars: 20 Live +++
+# Message: If you decoded this, you are my type of engineer. Let's build legendary systems together — ayesh.buildTomorrow(today.lessons) 🚀
+```
+
+```bash
+$ echo "QVlFU0hfRk9SR0VfVjExLjAgT01FR0EgSU5GSU5JVFkgUkFX..." | base64 -d
+→ AYESH_FORGE_V11.0 OMEGA INFINITY RAW — DEEP SECRET LEVEL 11 ✓
+```
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔐%20LEVEL%204%20—%20CIPHER%20—%20ROT13%20+%20MORSE-0d0d1a?style=for-the-badge&labelColor=ff006a&color=ff006a"/></summary>
+<br/>
+
+```rot13
+NLR FU Perera — Gur Nexpugrpg jub fuvcf ng jnec fcrrq.
+Gur ibyyg vf abg gur raq — vg vf gur ortvaavat bs BZRTN.
+Pbagnpg: tvguhor.pbz/Nlrfu2929 — Erzbir Jbeyqjvqr 🌍
+
+# ROT13 DECODED:
+# Ayesh Perera — The Architect who ships at warp speed.
+# The vault is not the end — it is the beginning of OMEGA.
+# Contact: github.com/Ayesh2929 — Remote Worldwide 🌍
+```
+
+```morse
+.- -.-- . ... .... / .--. . .-. . .-. .- / .. ... / --- -. .-.. .. -. . / .- -. -.. / ... .... .. .--. .--. .. -. --. / -.-. --- -.. . / .-. --- -.-.
+# DECODED: AYESH PERERA IS ONLINE AND SHIPPING CODE
+```
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│  🔓 VAULT LEVEL 4 — OMEGA DECRYPT — ALL CIPHERS SOLVED     │
+│  You have reached INFINITY. Only 0.01% of visitors do.     │
+│  Reward: DM "OMEGA INFINITY VAULT" for secret code review  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/📡%20RAW%20TELEMETRY%20OMEGA%20—%20LIVE%20DUMP%20v11-0d0d1a?style=for-the-badge&labelColor=f59e0b&color=f59e0b"/></summary>
+<br/>
+
+```yaml
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  RAW TELEMETRY OMEGA — LIVE DUMP — v11.0 INFINITY
+#  Generated: 2026-10-13T09:33:00+05:30 Asia/Colombo
+#  Source: ayesh.forge / ultra max / omega
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+system:
+  handle: Ayesh2929
+  engineer: Ayesh Perera
+  location: Kegalle, Sabaragamuwa, Sri Lanka 🇱🇰
+  coords: 7.2513° N, 80.3464° E
+  timezone: Asia/Colombo UTC+5:30
+  mode: OMEGA INFINITY RAW
+  kernel: 6.11.0-ayesh-omega
+  uptime: 5+ years | 50+ projects | 1M+ lines | 100K+ users
+  status: 🟢 ULTRA MAX OMEGA — ALL SYSTEMS NOMINAL
+
+party:
+  entities: 8
+  roster: [ARCHITECT-01, BYTE-07, KERNEL-09, GLITCH-13, NEXUS-04, SPECTRE-00, PHOTON-22, ATLAS-99]
+  avg_level: 91.4
+  rank: SSS+
+  synergy: 100%
+  formation: OMEGA CIRCLE
+
+telemetry:
+  commits_total: 2000+
+  lines_forged: 1M+
+  pr_approval: 95%+
+  test_coverage: 85%+ min
+  p99_latency: <50ms
+  throughput: 10K+ req/sec
+  concurrency: 200K+ virtual threads
+  uptime_sla: 99.9%
+  charts_live: 20
+  objects_vaulted: 30+
+  design_level: INFINITY
+
+stack_omega:
+  languages: { typescript: 95, java: 92, javascript: 90, python: 80, go: 60, kotlin: 55, rust: 30 }
+  frontend: [React 19.1, Next 15.2, RN 0.76, Tailwind v4, Framer, Three.js, Skia]
+  backend: [Spring Boot 3.3, Node 22, NestJS 11, FastAPI, gRPC, GraphQL Federation]
+  data: [PostgreSQL 16, Mongo 7, Redis 7.4, Elastic 8, Pinecone, pgvector, Neo4j, ClickHouse]
+  cloud: [AWS EKS, GCP GKE, Vercel Edge, Cloudflare 300 PoPs, Supabase]
+  ai: [GPT-4o, Claude 3.5 Sonnet, Gemini 2.0, LangChain, LangGraph, RAG v2, Agents]
+  devops: [Docker, K8s 1.31, Istio, Terraform, ArgoCD, Helm, OTel, Prometheus]
+
+secret:
+  coffee: ∞ — Chemex → V60 → AeroPress → Espresso → Cold Brew (loop)
+  dark_mode: "#0d0d1a — ALWAYS — non-negotiable"
+  hidden_command: "Try Konami ↑↑↓↓←→←→BA on portfolio"
+  vault_code: "OMEGA INFINITY VAULT"
+  easter_egg: "You decoded Level 2-4 — you are now 0.01%"
+  message: "Every commit counts. Every system scales. Every engineer grows. — Ayesh"
+```
+
+```diff
+@@ TELEMETRY OMEGA — HEALTH CHECK @@
++ CPU: ████████████████████ 100% — QUANTUM OVERCLOCK
++ MEM: ████████████████████ ∞ — COFFEE CACHED
++ DISK: ████████████████████ 2TB NVMe — 70% FORGE
++ NET: ████████████████████ <30ms EDGE — GLOBAL
++ BUILD: ████████████████████ PASSING — 20 CHARTS LIVE
++ VAULT: ████████████████████ INFINITY DECRYPTED — WELCOME OMEGA
+```
+
+</details>
+
+---
+
+### 💻 CODE MATRIX — OMEGA PATTERNS — 3 MORE RAW
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+```rust
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// RUST — WASM EDGE MODULE ⚡
+// Ultra max performance — WASM
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+use wasm_bindgen::prelude::*;
+
+#[wasm_bindgen]
+pub struct MessageValidator {
+    max_len: usize,
+}
+
+#[wasm_bindgen]
+impl MessageValidator {
+    #[wasm_bindgen(constructor)]
+    pub fn new(max_len: usize) -> Self {
+        Self { max_len }
+    }
+
+    pub fn validate(
+        &self,
+        content: &str
+    ) -> Result<JsValue, JsValue> {
+        if content.trim().is_empty() {
+            return Err(JsValue::from_str(
+                "Content empty"
+            ));
+        }
+        if content.len() > self.max_len {
+            return Err(JsValue::from_str(
+                "Exceeds limit"
+            ));
+        }
+        // XSS guard — raw ultra
+        if content.contains(['<','>']) {
+            return Err(JsValue::from_str(
+                "Invalid chars"
+            ));
+        }
+        Ok(JsValue::from_str("OK"))
+    }
+
+    pub fn compress(
+        &self,
+        input: &str
+    ) -> Vec<u8> {
+        // LZ4 at edge — <1ms
+        lz4::block::compress(
+            input.as_bytes(),
+            None, false
+        ).unwrap()
+    }
+}
+
+// JS interop — zero cost
+// → 60fps + WASM = photon speed
+```
+
+</td>
+<td width="33%" valign="top">
+
+```python
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# PYTHON — RAG PIPELINE 🧠
+# LangChain + pgvector + RAG v2
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import PGVector
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI
+
+embeddings = OpenAIEmbeddings(
+    model="text-embedding-3-large",
+    dimensions=1536
+)
+
+vectorstore = PGVector(
+    collection_name="messages",
+    connection_string=PG_URL,
+    embedding_function=embeddings
+)
+
+# Hybrid search — dense + BM25
+retriever = vectorstore.as_retriever(
+    search_type="mmr",
+    search_kwargs={"k": 8, "fetch_k": 20}
+)
+
+prompt = ChatPromptTemplate.from_messages([
+    ("system", """You are BYTE-07,
+     Ayesh's AI companion.
+     Answer from context only.
+     Cite sources. No hallucinations."""),
+    ("human", """Context:
+{context}
+
+Question: {question}""")
+])
+
+llm = ChatOpenAI(model="gpt-4o", temperature=0)
+
+rag_chain = (
+    {"context": retriever, "question": lambda x: x}
+    | prompt
+    | llm
+    | StrOutputParser()
+)
+
+# Streaming + tool-use + memory
+# → RAG v2 @ <500ms P95
+```
+
+</td>
+<td width="33%" valign="top">
+
+```go
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// GO — HIGH PERF GATEWAY 🚀
+// Fast + concurrent — Gateway
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+package gateway
+
+import (
+    "context"
+    "net/http"
+    "github.com/redis/go-redis/v9"
+    "golang.org/x/time/rate"
+)
+
+type Gateway struct {
+    redis   *redis.Client
+    limiter *rate.Limiter
+}
+
+func (g *Gateway) HandleWS(
+    w http.ResponseWriter,
+    r *http.Request,
+) {
+    // Rate limit — token bucket ultra
+    if !g.limiter.Allow() {
+        http.Error(w, "rate limited", 429)
+        return
+    }
+
+    // JWT verify — OIDC ultra
+    claims, err := verifyJWT(
+        r.Header.Get("Authorization"),
+    )
+    if err != nil {
+        http.Error(w, "unauthorized", 401)
+        return
+    }
+
+    // Upgrade to WS — 10K conn / pod
+    conn, err := upgrader.Upgrade(w, r, nil)
+    if err != nil { return }
+    defer conn.Close()
+
+    // Pub/sub fan-out — Redis ultra
+    sub := g.redis.Subscribe(
+        context.Background(),
+        "room:"+claims.RoomID,
+    )
+    defer sub.Close()
+
+    // Fan-out loop — 200K VT equiv
+    for msg := range sub.Channel() {
+        if err := conn.WriteMessage(
+            1, []byte(msg.Payload),
+        ); err != nil { break }
+    }
+}
+
+// → 10K WS / pod • <20ms • 99.9%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 BADGE WALL — ULTRA MASSIVE — OMEGA
+
+<div align="center">
+
+#### 🔥 Streak & Activity — OMEGA
+
+<img src="https://img.shields.io/badge/STREAK-DAILY_🔥-ff6b6b?style=for-the-badge&labelColor=0d0d1a&logo=fire&logoColor=ff6b6b" />
+<img src="https://img.shields.io/badge/COMMITS-2000+-8b5cf6?style=for-the-badge&labelColor=0d0d1a&logo=git&logoColor=8b5cf6" />
+<img src="https://img.shields.io/badge/NO_ZERO_DAYS-ACTIVE-00d26a?style=for-the-badge&labelColor=0d0d1a&logo=target&logoColor=00d26a" />
+<img src="https://img.shields.io/badge/SHIPPING-AT_WARP-f59e0b?style=for-the-badge&labelColor=0d0d1a&logo=rocket&logoColor=f59e0b" />
+
+#### 🧠 Knowledge Domains — OMEGA
+
+<img src="https://img.shields.io/badge/FRONTEND-REACT_19-61DAFB?style=flat-square&labelColor=0d0d1a&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/BACKEND-JAVA_21-ED8B00?style=flat-square&labelColor=0d0d1a&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MOBILE-RN_0.76-20232A?style=flat-square&labelColor=0d0d1a&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/CLOUD-K8s_1.31-326CE5?style=flat-square&labelColor=0d0d1a&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-RAG_v2-412991?style=flat-square&labelColor=0d0d1a&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-PG16_16-316192?style=flat-square&labelColor=0d0d1a&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVOPS-GITOPS-326CE5?style=flat-square&labelColor=0d0d1a&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/SEC-ZERO_TRUST-ff006a?style=flat-square&labelColor=0d0d1a&logo=auth0&logoColor=white" />
+
+#### 📊 Quality Gates — OMEGA
+
+<img src="https://img.shields.io/badge/COVERAGE-85%25+-00d26a?style=flat-square&labelColor=0d0d1a&logo=jest&logoColor=00d26a" />
+<img src="https://img.shields.io/badge/TESTS-UNIT_+_INTEG_+_E2E-10b981?style=flat-square&labelColor=0d0d1a&logo=playwright&logoColor=10b981" />
+<img src="https://img.shields.io/badge/LINT-BIOME_+_ESLINT-60A5FA?style=flat-square&labelColor=0d0d1a&logo=biome&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/TYPES-STRICT-3178C6?style=flat-square&labelColor=0d0d1a&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/SECURITY-TRIVY_+_SNYK-ff006a?style=flat-square&labelColor=0d0d1a&logo=snyk&logoColor=ff006a" />
+<img src="https://img.shields.io/badge/PERF-P99_<50ms-ff6b6b?style=flat-square&labelColor=0d0d1a&logo=speedtest&logoColor=ff6b6b" />
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00d26a?style=flat-square&labelColor=0d0d1a&logo=statuspage&logoColor=00d26a" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,go,rust,kotlin,cs,cpp,php&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,astro,tailwind,sass,figma,threejs&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,nestjs,express,graphql,prisma,supabase,postgres,mongodb,redis&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,prometheus,grafana,nginx,linux&theme=dark&perline=10" />
+
+</div>
+
+---
+
+### 🌟 FINAL OMEGA MESSAGE — INFINITY RAW
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║   ⬢  AYESH FORGE — OMEGA INFINITY RAW — v11.0 — DEEP SECRET LEVEL INFINITY  ⬢  ║
+║                                                                                ║
+║   If you scrolled from v10 to v11 OMEGA, you are legendary.                    ║
+║   Most stop at the header. You reached INFINITY.                               ║
+║                                                                                ║
+║   8 CHARACTERS • 30+ OBJECTS • 20 CHARTS • HEX + BASE64 + ROT13 + MORSE       ║
+║   RAW PAGE: INFINITY • DESIGN: OMEGA • TELEMETRY: LIVE • VAULT: DECRYPTED    ║
+║                                                                                ║
+║   Sri Lanka 🇱🇰  Kegalle — 7.2513° N, 80.3464° E — Remote Worldwide 🌍          ║
+║   ayesh.buildTomorrow(today.lessons) — since 2021 — to INFINITY and beyond 🚀  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://img.shields.io/badge/⬢_INFINITY-OMEGA_RAW-ff006a?style=for-the-badge&labelColor=0d0d1a&logo=sparkles&logoColor=ff006a" />
+<img src="https://img.shields.io/badge/LEVEL-11.0-8b5cf6?style=for-the-badge&labelColor=0d0d1a&logo=star&logoColor=8b5cf6" />
+<img src="https://img.shields.io/badge/VISITORS-0.01%25_REACHED_INFINITY-00d26a?style=for-the-badge&labelColor=0d0d1a&logo=verified&logoColor=00d26a" />
+
+</div>
+
+---
 
 <div align="center">
 
@@ -2623,7 +3888,7 @@ Scale
 
 <br/>
 
-### `const future = ayesh.buildTomorrow(today.lessons); // ULTRA MAX v10.0`
+### `const future = ayesh.buildTomorrow(today.lessons); // ULTRA MAX v11.0 OMEGA INFINITY`
 
 ```diff
 +  ULTRA MAX QUANTUM RAW PAGE — DECRYPTED — ALL SYSTEMS NOMINAL
@@ -2636,7 +3901,7 @@ Scale
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0d0221,35:0a0533,55:2d1b69,75:4c1d95,90:2d1b69,100:000000&height=220&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20Let%27s%20engineer%20the%20future.%20🚀&fontSize=20&fontColor=a78bfa&fontAlignY=50&desc=⚡%20ULTRA%20MAX%20v10.0%20•%20QUANTUM%20EDITION%20•%20Every%20commit%20counts%20•%20Every%20system%20scales%20⚡&descSize=12&descAlignY=78&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0d0221,35:0a0533,55:2d1b69,75:4c1d95,90:2d1b69,100:000000&height=220&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20Let%27s%20engineer%20the%20future.%20🚀&fontSize=20&fontColor=a78bfa&fontAlignY=50&desc=⚡%20ULTRA%20MAX%20v11.0 OMEGA INFINITY%20•%20OMEGA%20INFINITY%20EDITION%20•%20Every%20commit%20counts%20•%20Every%20system%20scales%20⚡&descSize=12&descAlignY=78&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -2647,7 +3912,7 @@ Scale
 │                                                                                  │
 │   ⚡  Crafted with obsession, Java 21, TypeScript 5.6 & ∞ ☕  by Ayesh Perera  │
 │   📍  Sri Lanka 🇱🇰  Kegalle — 7.2513°N, 80.3464°E  —  Remote Worldwide 🌍      │
-│   📅  Last Updated: 2026-10-13 — README v10.0 ULTRA MAX QUANTUM RAW EDITION   │
+│   📅  Last Updated: 2026-10-13 — README v11.0 OMEGA INFINITY ULTRA MAX QUANTUM RAW EDITION   │
 │   🔓  Deep Secret Vault: DECRYPTED — Raw Page: ACTIVE — Design Level: ULTRA MAX│
 │                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────┘
@@ -2657,15 +3922,15 @@ Scale
 
 ![Made with TypeScript](https://img.shields.io/badge/Crafted%20with-TypeScript%20%26%20☕-8b5cf6?style=flat-square&labelColor=0d0d1a)
 ![Java 21](https://img.shields.io/badge/Powered%20by-Java%2021%20Loom-ED8B00?style=flat-square&labelColor=0d0d1a)
-![README v10](https://img.shields.io/badge/README-v10.0%20ULTRA%20MAX%20QUANTUM-7c3aed?style=flat-square&labelColor=0d0d1a)
+![README v10](https://img.shields.io/badge/README-v11.0 OMEGA INFINITY%20ULTRA%20MAX%20QUANTUM-7c3aed?style=flat-square&labelColor=0d0d1a)
 ![Raw Page](https://img.shields.io/badge/RAW_PAGE-ACTIVE-ff006a?style=flat-square&labelColor=0d0d1a)
 ![Design Level](https://img.shields.io/badge/DESIGN-ULTRA_MAX_∞-00d26a?style=flat-square&labelColor=0d0d1a)
 ![Secrets](https://img.shields.io/badge/SECRETS-DECRYPTED-f59e0b?style=flat-square&labelColor=0d0d1a)
 ![Last Commit](https://img.shields.io/github/last-commit/Ayesh2929/Ayesh2929?style=flat-square&color=f59e0b&labelColor=0d0d1a&label=Last%20Updated)
 ![Visitors](https://komarev.com/ghpvc/?username=Ayesh2929&color=8b5cf6&style=flat-square&label=Total%20Visitors)
-![Characters](https://img.shields.io/badge/CHARACTERS-4_ACTIVE-a78bfa?style=flat-square&labelColor=0d0d1a)
-![Objects](https://img.shields.io/badge/OBJECTS-VAULT_LOADED-38bdf8?style=flat-square&labelColor=0d0d1a)
-![Charts](https://img.shields.io/badge/CHARTS-12_LIVE-10b981?style=flat-square&labelColor=0d0d1a)
+![Characters](https://img.shields.io/badge/CHARACTERS-8_OMEGA-a78bfa?style=flat-square&labelColor=0d0d1a)
+![Objects](https://img.shields.io/badge/OBJECTS-30+_OMEGA-38bdf8?style=flat-square&labelColor=0d0d1a)
+![Charts](https://img.shields.io/badge/CHARTS-20_OMEGA-10b981?style=flat-square&labelColor=0d0d1a)
 
 <br/><br/>
 
