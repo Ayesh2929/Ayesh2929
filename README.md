@@ -67,7 +67,7 @@ This profile is a map of work visible in my public repositories: a localized hou
 | [Toolchain](#02-toolchain) | Technologies shown in the featured repositories |
 | [Project files](#03-project-files) | A guided tour of selected work |
 | [System maps](#04-system-maps) | Architecture, domain flow, and the project constellation |
-| [Signals](#05-signals) | A real repository-language chart and live GitHub cards |
+| [Signals](#05-signals) | A source-backed 3D language chart and live GitHub links |
 | [Build loop](#06-build-loop) | Principles, learning directions, and how to connect |
 | [Rendering notes](#07-rendering-notes) | What the 3D/4D visuals mean—and what GitHub can render |
 | [Deep dives](#08-deep-dives) | Data model, security boundaries, state flows, and the theme engine |
@@ -213,6 +213,17 @@ flowchart TB
 
 ### A data path, from tap to stored record
 
+<div align="center">
+
+<img src="assets/transaction-boundary-3d.png" alt="Isometric request map for GṛhaLakṣmī: household member, React client, Express API with JWT verification, and PostgreSQL with user_id or owner_user_id scoping; a separate dashed line returns the JSON response." width="100%" />
+
+<sub><a href="assets/transaction-boundary-3d.png">Open full-size request map</a> · <a href="assets/transaction-boundary-3d.svg">Editable SVG source</a> · diagram illustrates source flow, not a security certification.</sub>
+
+</div>
+
+<details>
+<summary><b>Open the sequence-diagram source</b></summary>
+
 ```mermaid
 sequenceDiagram
     actor Member as Household member
@@ -227,6 +238,8 @@ sequenceDiagram
     API-->>UI: Return response
     UI-->>Member: Refresh the view and report
 ```
+
+</details>
 
 ---
 
@@ -328,6 +341,7 @@ The animated geometry is a mathematical visualization: a rotating **4D hypercube
 | **Downloadable model** | [`assets/tesseract-projection.stl`](assets/tesseract-projection.stl) | Static triangular mesh of a 3D projection; open it in an STL-compatible viewer |
 | **3D data chart** | [PNG preview](assets/language-footprint-3d.png) · [editable SVG source](assets/language-footprint-3d.svg) | Isometric bars for the sourced language-presence counts in section 05 |
 | **3D architecture map** | [PNG preview](assets/project-constellation-3d.png) · [editable SVG source](assets/project-constellation-3d.svg) | Source-backed grouping of repositories; not a deployment or runtime topology |
+| **3D request boundary** | [PNG preview](assets/transaction-boundary-3d.png) · [editable SVG source](assets/transaction-boundary-3d.svg) | Request/response path, JWT middleware, and owner scoping from project source |
 | **Interactive scene** | [`lab/index.html`](lab/index.html) + [`assets/site.js`](assets/site.js) | Pointer/keyboard canvas lab on the companion site; GitHub README cannot run it |
 
 <details>
@@ -588,6 +602,7 @@ A profile README is a static document. This ledger separates the parts GitHub ca
 | [`assets/tesseract-projection.stl`](assets/tesseract-projection.stl) | Downloadable triangular mesh | 4,224 facets in the validated STL; view or edit in a compatible model viewer |
 | [3D chart PNG](assets/language-footprint-3d.png) · [SVG source](assets/language-footprint-3d.svg) | Static isometric chart | The numeric counts are the sourced language-presence snapshot; not proficiency or code volume |
 | [3D source-map PNG](assets/project-constellation-3d.png) · [SVG source](assets/project-constellation-3d.svg) | Static isometric source map | The branches group separate repositories; they are not network calls or a deployment topology |
+| [3D request-map PNG](assets/transaction-boundary-3d.png) · [SVG source](assets/transaction-boundary-3d.svg) | Static isometric API/data-boundary map | Summarizes documented authentication and user-scoped database operations; not a security certification |
 | [`lab/index.html`](lab/index.html) | Interactive companion page | Canvas rotation and controls execute on the site, not inside README Markdown |
 
 No credential values or private tokens are reproduced in this README. Repository links point to public source; implementation caveats are called out rather than hidden behind visual polish.
