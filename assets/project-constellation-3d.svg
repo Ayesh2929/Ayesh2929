@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">Isometric source map of three independent featured repositories</title>
+  <desc id="desc">An isometric portfolio archive cube branches visually to three separately maintained repository cubes: GrihaLakshmi for household finance, ToDo for a small mobile task UI, and ASH-HYPRLAND for a Linux desktop workspace. The lines indicate grouping in this profile, not live application connections.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10172c"/><stop offset="1" stop-color="#080b16"/></linearGradient>
+    <linearGradient id="hubFront" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#322065"/><stop offset="1" stop-color="#17142e"/></linearGradient>
+    <linearGradient id="webFront" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d3357"/><stop offset="1" stop-color="#111a2d"/></linearGradient>
+    <linearGradient id="mobileFront" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153847"/><stop offset="1" stop-color="#101c2a"/></linearGradient>
+    <linearGradient id="linuxFront" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3a2a28"/><stop offset="1" stop-color="#1e171d"/></linearGradient>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.1em}
+      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="690" rx="26" fill="url(#bg)" stroke="#272f4d"/>
+  <g fill="none" stroke="#202a45" stroke-width="1" opacity=".7">
+    <path d="M36 583H1164M36 617H1164M36 651H1164"/>
+    <path d="M115 565 217 676M255 565 357 676M395 565 497 676M535 565 637 676M675 565 777 676M815 565 917 676M955 565 1057 676"/>
+  </g>
+  <circle cx="62" cy="56" r="5" fill="#a78bfa"/>
+  <text x="82" y="61" class="mono" font-size="14" fill="#c4b5fd">SOURCE ATLAS / THREE FEATURED REPOSITORIES</text>
+  <text x="1138" y="61" text-anchor="end" class="mono" font-size="11" fill="#68ddea">ISOMETRIC MAP · STATIC · SOURCE-BACKED</text>
+  <path d="M60 84H1140" stroke="#242c48"/>
+
+  <!-- Archive hub: the visual grouping is editorial, not a shared runtime. -->
+  <path d="M460 137 486 116H762L736 137Z" fill="#6d49b2" stroke="#bc9cff" stroke-width="1.5"/>
+  <path d="M736 137 762 116V212L736 233Z" fill="#251a49" stroke="#9c7be7" stroke-width="1.5"/>
+  <rect x="460" y="137" width="276" height="96" rx="1" fill="url(#hubFront)" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="486" y="174" class="mono" font-size="12" fill="#c4b5fd">CURATED PORTFOLIO</text>
+  <text x="486" y="205" class="sans" font-size="25" font-weight="700" fill="#f4f1ff">AY / 29 ARCHIVE</text>
+
+  <!-- Deliberately drawn as a constellation: each branch is a separate GitHub repository. -->
+  <g fill="none" stroke-width="2">
+    <path d="M510 233 230 344" stroke="#72d9ed" stroke-dasharray="7 7"/>
+    <path d="M598 233 598 344" stroke="#a78bfa" stroke-dasharray="7 7"/>
+    <path d="M686 233 966 344" stroke="#f4b56b" stroke-dasharray="7 7"/>
+  </g>
+  <g fill="#080b16" stroke-width="2">
+    <circle cx="230" cy="344" r="6" stroke="#72d9ed"/><circle cx="598" cy="344" r="6" stroke="#a78bfa"/><circle cx="966" cy="344" r="6" stroke="#f4b56b"/>
+  </g>
+
+  <!-- GṛhaLakṣmī: blue isometric repository block. -->
+  <path d="M72 370 98 348H389L363 370Z" fill="#42709b" stroke="#8de9fa" stroke-width="1.5"/>
+  <path d="M363 370 389 348V521L363 543Z" fill="#172844" stroke="#5db7d0" stroke-width="1.5"/>
+  <rect x="72" y="370" width="291" height="173" fill="url(#webFront)" stroke="#70d4ea" stroke-width="1.5"/>
+  <text x="94" y="405" class="mono" font-size="11" fill="#8de9fa">WEB PRODUCT / FINANCE</text>
+  <text x="94" y="439" class="sans" font-size="24" font-weight="700" fill="#f1f6ff">GṛhaLakṣmī</text>
+  <text x="94" y="466" class="sans" font-size="13" fill="#c5d7e7">Household money-management app</text>
+  <path d="M94 481H337" stroke="#395170"/>
+  <text x="94" y="505" class="mono" font-size="11" fill="#a8c9ec">REACT · TYPESCRIPT · VITE</text>
+  <text x="94" y="525" class="mono" font-size="11" fill="#a8c9ec">EXPRESS · POSTGRESQL</text>
+
+  <!-- ToDo: cyan isometric repository block. -->
+  <path d="M453 370 479 348H770L744 370Z" fill="#28677a" stroke="#86eff1" stroke-width="1.5"/>
+  <path d="M744 370 770 348V521L744 543Z" fill="#11303c" stroke="#58bacd" stroke-width="1.5"/>
+  <rect x="453" y="370" width="291" height="173" fill="url(#mobileFront)" stroke="#58d5e3" stroke-width="1.5"/>
+  <text x="475" y="405" class="mono" font-size="11" fill="#86eff1">MOBILE / TASK ENTRY</text>
+  <text x="475" y="439" class="sans" font-size="24" font-weight="700" fill="#f1ffff">ToDo</text>
+  <text x="475" y="466" class="sans" font-size="13" fill="#c5dfe1">Compact Expo / React Native UI</text>
+  <path d="M475 481H718" stroke="#31515e"/>
+  <text x="475" y="505" class="mono" font-size="11" fill="#a7eeee">REACT NATIVE · EXPO · TS</text>
+  <text x="475" y="525" class="mono" font-size="10" fill="#a7bfc4">PERSISTENCE / AUTH NOT WIRED</text>
+
+  <!-- ASH-HYPRLAND: amber isometric repository block. -->
+  <path d="M834 370 860 348H1151L1125 370Z" fill="#785033" stroke="#f5c98e" stroke-width="1.5"/>
+  <path d="M1125 370 1151 348V521L1125 543Z" fill="#39271e" stroke="#d49a59" stroke-width="1.5"/>
+  <rect x="834" y="370" width="291" height="173" fill="url(#linuxFront)" stroke="#ebb46d" stroke-width="1.5"/>
+  <text x="856" y="405" class="mono" font-size="11" fill="#f5c98e">LINUX / DESKTOP WORKSPACE</text>
+  <text x="856" y="439" class="sans" font-size="22" font-weight="700" fill="#fff5eb">ASH-HYPRLAND</text>
+  <text x="856" y="466" class="sans" font-size="13" fill="#e1d2c3">Themes, dotfiles, local tooling</text>
+  <path d="M856 481H1098" stroke="#5a4433"/>
+  <text x="856" y="505" class="mono" font-size="11" fill="#f0c992">HYPRLAND · SHELL · FISH</text>
+  <text x="856" y="525" class="mono" font-size="11" fill="#f0c992">LUA · PYTHON · NEOVIM</text>
+
+  <rect x="60" y="576" width="1080" height="58" rx="12" fill="#0e1424" stroke="#2a3450"/>
+  <circle cx="84" cy="605" r="5" fill="#a78bfa"/>
+  <text x="103" y="601" class="mono" font-size="11" fill="#c2cae2">INTERPRETATION</text>
+  <text x="103" y="620" class="sans" font-size="13" fill="#9da8c5">The dashed branches group independent public repositories in one profile; they do not indicate shared deployment or live service links.</text>
+</svg>
